@@ -79,7 +79,7 @@ print(df.head())
 | alpha.hiphop     | available | $33.98    | —             | 90             | 53     | 5      | namecheap       |
 | LGBTQ.hiphop     | resell    | —         | —             | 86             | 20     | 5      | Porkbun LLC     |
 | gas.hiphop       | premium   | $650      | $130          | 72             | 31     | 3      | namecheap       |
-| fast.hiphop      | available | $33.98    | —             | 82             | 53     | 4      | namecheap       |
+| fast.hiphop      | available | $33.98    | —             | 82             | 52     | 4      | namecheap       |
 | cassette.hiphop  | resell    | —         | —             | 66             | 15     | 8      | Spaceship, Inc. |
 | oil.hiphop       | premium   | $650      | $130          | 74             | 29     | 3      | namecheap       |
 | athletics.hiphop | available | $33.98    | —             | 69             | 52     | 9      | namecheap       |
