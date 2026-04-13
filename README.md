@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .hiphop one-word domains from Uniq
 
 **Public extract:** 9,807 rows · **Live catalog:** 9,807 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/hiphop`  
 **Best for:** founders, investors, studios
 
@@ -76,9 +76,9 @@ print(df.head())
 | seventeen.hiphop | available | $33.98    | —             | 84             | 62     | 9      | namecheap       |
 | trap.hiphop      | resell    | —         | —             | 68             | 25     | 4      | Porkbun LLC     |
 | aaa.hiphop       | premium   | $650      | $130          | 70             | 42     | 3      | namecheap       |
-| alpha.hiphop     | available | $33.98    | —             | 90             | 54     | 5      | namecheap       |
+| alpha.hiphop     | available | $33.98    | —             | 90             | 53     | 5      | namecheap       |
 | LGBTQ.hiphop     | resell    | —         | —             | 86             | 20     | 5      | Porkbun LLC     |
-| gas.hiphop       | premium   | $650      | $130          | 72             | 32     | 3      | namecheap       |
+| gas.hiphop       | premium   | $650      | $130          | 72             | 31     | 3      | namecheap       |
 | fast.hiphop      | available | $33.98    | —             | 82             | 53     | 4      | namecheap       |
 | cassette.hiphop  | resell    | —         | —             | 66             | 15     | 8      | Spaceship, Inc. |
 | oil.hiphop       | premium   | $650      | $130          | 74             | 29     | 3      | namecheap       |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
