@@ -1,22 +1,22 @@
-# Available .HIPHOP One-Word Domains (9,807)
+# Available .HIPHOP One-Word Domains (12,118)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C807%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C807%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C118%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .hiphop one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .hiphop one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,118 domains** on the canonical page below.
 
-**Public extract:** 9,807 rows · **Live catalog:** 9,807 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,118 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/hiphop`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HIPHOP one-word domai
 
 ### Files
 
-- `hiphop.csv` — public CSV extract (9,807 rows)
-- `hiphop.json` — public JSON extract (9,807 rows)
+- `hiphop.csv` — public CSV extract (1,000 rows)
+- `hiphop.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| converse.hiphop  | available | $33.98    | —             | 64             | 73     | 8      | namecheap       |
-| access.hiphop    | resell    | —         | —             | 98             | 46     | 6      | 1API GmbH       |
-| one.hiphop       | premium   | $632.50   | $41.99        | 132            | 50     | 3      | name.com        |
-| easy.hiphop      | available | $33.98    | —             | 128            | 68     | 4      | namecheap       |
-| quest.hiphop     | resell    | —         | —             | 74             | 46     | 5      | 1API GmbH       |
-| air.hiphop       | premium   | $650      | $130          | 84             | 49     | 3      | namecheap       |
-| power.hiphop     | available | $33.98    | —             | 98             | 62     | 5      | namecheap       |
-| iconic.hiphop    | resell    | —         | —             | 76             | 41     | 6      | Porkbun LLC     |
-| big.hiphop       | premium   | $650      | $130          | 88             | 47     | 3      | namecheap       |
-| seventeen.hiphop | available | $33.98    | —             | 84             | 62     | 9      | namecheap       |
-| trap.hiphop      | resell    | —         | —             | 68             | 25     | 4      | Porkbun LLC     |
-| aaa.hiphop       | premium   | $650      | $130          | 70             | 42     | 3      | namecheap       |
-| alpha.hiphop     | available | $33.98    | —             | 90             | 53     | 5      | namecheap       |
-| LGBTQ.hiphop     | resell    | —         | —             | 86             | 20     | 5      | Porkbun LLC     |
-| gas.hiphop       | premium   | $650      | $130          | 72             | 31     | 3      | namecheap       |
-| fast.hiphop      | available | $33.98    | —             | 82             | 52     | 4      | namecheap       |
-| cassette.hiphop  | resell    | —         | —             | 66             | 15     | 8      | Spaceship, Inc. |
-| oil.hiphop       | premium   | $650      | $130          | 74             | 29     | 3      | namecheap       |
-| athletics.hiphop | available | $33.98    | —             | 69             | 52     | 9      | namecheap       |
-| WestCoast.hiphop | resell    | —         | —             | —              | 15     | 10     | 1API GmbH       |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| insight.hiphop       | available | $33.98    | —             | 76             | 69     | 8      | namecheap |
+| etc.hiphop           | premium   | $700      | $140          | 58             | 34     | 3      | namecheap |
+| RedSox.hiphop        | available | $33.98    | —             | 72             | 60     | 7      | namecheap |
+| KFC.hiphop           | premium   | $700      | $140          | 74             | 27     | 3      | namecheap |
+| keepthechange.hiphop | available | $33.98    | —             | 46             | 59     | 15     | namecheap |
+| has.hiphop           | premium   | $700      | $140          | 60             | 26     | 3      | namecheap |
+| shortcuts.hiphop     | available | $33.98    | —             | 48             | 41     | 10     | namecheap |
+| pls.hiphop           | premium   | $700      | $140          | 60             | 23     | 3      | namecheap |
+| WiFi.hiphop          | available | $33.98    | —             | 83             | 37     | 5      | namecheap |
+| VHS.hiphop           | premium   | $700      | $140          | 71             | 20     | 3      | namecheap |
+| homes.hiphop         | available | $33.98    | —             | 86             | 34     | 5      | namecheap |
+| plz.hiphop           | premium   | $700      | $140          | 72             | 14     | 3      | namecheap |
+| spectra.hiphop       | available | $33.98    | —             | 62             | 34     | 7      | namecheap |
+| sqm.hiphop           | premium   | $700      | $140          | 54             | 11     | 4      | namecheap |
+| inspiration.hiphop   | available | $33.98    | —             | 88             | 30     | 11     | namecheap |
+| dogs.hiphop          | available | $33.98    | —             | 76             | 28     | 4      | namecheap |
+| gems.hiphop          | available | $23.99    | $23.99        | 70             | 28     | 4      | namesilo  |
+| brands.hiphop        | available | $33.98    | —             | 62             | 28     | 6      | namecheap |
+| forms.hiphop         | available | $33.98    | —             | 54             | 28     | 5      | namecheap |
+| backyard.hiphop      | available | $33.98    | —             | 80             | 27     | 9      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,807-row public sample | 9,807 live domains                               |
+| 1,000-row public sample | 12,118 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
