@@ -79,11 +79,11 @@ print(df.head())
 | dogs.hiphop          | available | $33.98    | —             | 76             | 28     | 4      | namecheap |
 | sqm.hiphop           | premium   | $700      | $140          | 54             | 11     | 4      | namecheap |
 | gems.hiphop          | available | $23.99    | $23.99        | 70             | 28     | 4      | namesilo  |
+| football.hiphop      | premium   | —         | —             | 86             | 36     | 8      | —         |
 | forms.hiphop         | available | $33.98    | —             | 54             | 28     | 5      | namecheap |
 | backyard.hiphop      | available | $33.98    | —             | 80             | 27     | 9      | namecheap |
 | bees.hiphop          | available | $33.98    | —             | 54             | 27     | 4      | namecheap |
 | traders.hiphop       | available | $33.98    | —             | 60             | 26     | 7      | namecheap |
-| destination.hiphop   | available | $33.98    | —             | 90             | 25     | 11     | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
