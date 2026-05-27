@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hiphop one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,638 domains · **Median ask:** $37.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/hiphop`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | insight.hiphop       | available | $33.98    | —             | 76             | 69     | 8      | namecheap |
-| etc.hiphop           | premium   | $700      | $140          | 58             | 34     | 3      | namecheap |
+| etc.hiphop           | premium   | $700      | $140          | 58             | 32     | 3      | namecheap |
 | RedSox.hiphop        | available | $33.98    | —             | 72             | 60     | 7      | namecheap |
 | KFC.hiphop           | premium   | $700      | $140          | 74             | 27     | 3      | namecheap |
 | keepthechange.hiphop | available | $33.98    | —             | 46             | 59     | 15     | namecheap |
@@ -73,17 +73,17 @@ print(df.head())
 | shortcuts.hiphop     | available | $33.98    | —             | 48             | 41     | 10     | namecheap |
 | VHS.hiphop           | premium   | $700      | $140          | 71             | 20     | 3      | namecheap |
 | prompts.hiphop       | available | $23.99    | $23.99        | 54             | 39     | 7      | namesilo  |
-| plz.hiphop           | premium   | $700      | $140          | 72             | 14     | 3      | namecheap |
-| inspiration.hiphop   | available | $33.98    | —             | 88             | 30     | 11     | namecheap |
-| OKs.hiphop           | premium   | $640      | $116          | 68             | 13     | 3      | namesilo  |
+| plz.hiphop           | premium   | $700      | $140          | 72             | 15     | 3      | namecheap |
 | dogs.hiphop          | available | $33.98    | —             | 76             | 28     | 4      | namecheap |
-| sqm.hiphop           | premium   | $700      | $140          | 54             | 11     | 4      | namecheap |
+| OKs.hiphop           | premium   | $640      | $116          | 68             | 13     | 3      | namesilo  |
 | gems.hiphop          | available | $23.99    | $23.99        | 70             | 28     | 4      | namesilo  |
-| football.hiphop      | premium   | —         | —             | 86             | 36     | 8      | —         |
+| sqm.hiphop           | premium   | $700      | $140          | 54             | 11     | 4      | namecheap |
 | forms.hiphop         | available | $33.98    | —             | 54             | 28     | 5      | namecheap |
+| football.hiphop      | premium   | —         | —             | 86             | 36     | 8      | —         |
+| inspiration.hiphop   | available | $33.98    | —             | 88             | 27     | 11     | namecheap |
 | backyard.hiphop      | available | $33.98    | —             | 80             | 27     | 9      | namecheap |
 | bees.hiphop          | available | $33.98    | —             | 54             | 27     | 4      | namecheap |
-| traders.hiphop       | available | $33.98    | —             | 60             | 26     | 7      | namecheap |
+| traders.hiphop       | available | $33.98    | —             | 60             | 25     | 7      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
