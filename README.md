@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .hiphop one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,638 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,638 domains · **Median ask:** $37.34 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,638 domains · **Median ask:** $52.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/hiphop`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/hiphop`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HIPHOP one-word domai
 
 ### Files
 
-- `hiphop.csv` — public CSV extract (1,000 rows)
-- `hiphop.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `hiphop.csv`, public CSV extract (1,000 rows)
+- `hiphop.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| insight.hiphop       | available | $33.98    | —             | 76             | 69     | 8      | namecheap |
-| etc.hiphop           | premium   | $700      | $140          | 58             | 32     | 3      | namecheap |
-| RedSox.hiphop        | available | $33.98    | —             | 72             | 60     | 7      | namecheap |
-| KFC.hiphop           | premium   | $700      | $140          | 74             | 27     | 3      | namecheap |
-| keepthechange.hiphop | available | $33.98    | —             | 46             | 59     | 15     | namecheap |
-| has.hiphop           | premium   | $700      | $140          | 60             | 26     | 3      | namecheap |
-| shortcuts.hiphop     | available | $33.98    | —             | 48             | 41     | 10     | namecheap |
-| VHS.hiphop           | premium   | $700      | $140          | 71             | 20     | 3      | namecheap |
-| prompts.hiphop       | available | $23.99    | $23.99        | 54             | 39     | 7      | namesilo  |
-| plz.hiphop           | premium   | $700      | $140          | 72             | 15     | 3      | namecheap |
-| dogs.hiphop          | available | $33.98    | —             | 76             | 28     | 4      | namecheap |
-| OKs.hiphop           | premium   | $640      | $116          | 68             | 13     | 3      | namesilo  |
-| gems.hiphop          | available | $23.99    | $23.99        | 70             | 28     | 4      | namesilo  |
-| sqm.hiphop           | premium   | $700      | $140          | 54             | 11     | 4      | namecheap |
-| forms.hiphop         | available | $33.98    | —             | 54             | 28     | 5      | namecheap |
-| football.hiphop      | premium   | —         | —             | 86             | 36     | 8      | —         |
-| inspiration.hiphop   | available | $33.98    | —             | 88             | 27     | 11     | namecheap |
-| backyard.hiphop      | available | $33.98    | —             | 80             | 27     | 9      | namecheap |
-| bees.hiphop          | available | $33.98    | —             | 54             | 27     | 4      | namecheap |
-| traders.hiphop       | available | $33.98    | —             | 60             | 25     | 7      | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| ball.hiphop   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
+| iconic.hiphop | resell    | —         | —             | high           | low    | 6      | Porkbun LLC |
+| aim.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| bell.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| ala.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| bill.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| ant.hiphop    | premium   | $700      | $140          | high           | medium | 3      | namecheap   |
+| bite.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| bed.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| bomb.hiphop   | available | $33.98    | —             | medium         | low    | 4      | namecheap   |
+| BJP.hiphop    | premium   | $700      | $140          | medium         | low    | 3      | namecheap   |
+| bump.hiphop   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
+| cot.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| burn.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| dip.hiphop    | premium   | $650      | $130          | high           | low    | 3      | namecheap   |
+| cast.hiphop   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
+| don.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| clam.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| ear.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| cost.hiphop   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .hiphop domains. The names range from broad dictionary terms such as spend.hiphop and explore.hiphop to narrower or higher-risk terms such as Skype.hiphop. For founders, the best candidates are usually the words that are easy to say, easy to recall, and clearly usable as a brand within music, culture, media, events, or adjacent communities. For investors, the key question is whether the word has enough commercial relevance inside the .hiphop context to justify the ask. With a median ask of 37.34, entry price may look low, but the real filter is quality, clean trademark posture, and whether the extension supports the word naturally.
+This list groups one-word domain names registered under the .HIPHOP extension. Names range from everyday words and short phrases — such as flaxseed, midmorning, and makewhole — to recognizable terms like MickeyMouse. With a median asking price near $53 across 12,638 listings, this selection suits founders shortlisting a brandable name and investors scanning a niche TLD for volume and pricing patterns.
 
-- Prefer clean dictionary words with clear .hiphop relevance
-- Check trademark exposure on terms like Skype.hiphop
-- Low ask can help, but weak fit can limit resale interest
-- Compare memorability, meaning, and likely renewal cost
+- 12,638 one-word .HIPHOP domains in this selection
+- Median asking price near $53 across the set
+- Mix of common words, compounds, and trademark-style names
+- Updated daily to reflect current availability and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
