@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hiphop one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,554 domains · **Median ask:** $42.49 · **High-demand under $2,500:** 52
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/hiphop`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| okay.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
-| feel.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
-| sorry.hiphop  | available | —         | —             | high           | low    | 5      | —           |
 | acid.hiphop   | available | $23.99    | $23.99        | low            | low    | 4      | namesilo    |
 | iconic.hiphop | resell    | —         | —             | high           | low    | 6      | Porkbun LLC |
 | aim.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
@@ -84,6 +81,9 @@ print(df.head())
 | dip.hiphop    | premium   | $650      | $130          | high           | low    | 3      | namecheap   |
 | bump.hiphop   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
 | don.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| burn.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| ear.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| cast.hiphop   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
