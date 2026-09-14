@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hiphop one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,042 domains · **Median ask:** $38.27 · **High-demand under $2,500:** 58
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/hiphop`
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | ant.hiphop    | premium   | $700      | $140          | high           | medium | 3      | namecheap   |
 | bell.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
 | bed.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
-| bill.hiphop   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| bill.hiphop   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
 | BJP.hiphop    | premium   | $700      | $140          | medium         | low    | 3      | namecheap   |
 | bite.hiphop   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
 | cot.hiphop    | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
