@@ -1,10 +1,10 @@
-# Available .HIPHOP One-Word Domains (24,566)
+# Available .HIPHOP One-Word Domains (26,421)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C566%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C421%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hiphop one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,566 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,421 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,566 domains · **Median ask:** $45.83 · **High-demand under $2,500:** 113
+**Public extract:** 1,000 rows · **Live catalog:** 26,421 domains · **Median ask:** $47.26 · **High-demand under $2,500:** 121
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/hiphop`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| acne.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo  |
-| alp.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo  |
-| afro.hiphop | available | $25.98    | $33.98        | high           | low    | 4      | namecheap |
-| ans.hiphop  | premium   | $640      | $116          | medium         | low    | 3      | namesilo  |
-| ahab.hiphop | available | $25.98    | $33.98        | medium         | low    | 4      | namecheap |
-| apr.hiphop  | premium   | $863.24   | $172.65       | high           | low    | 3      | name.com  |
-| akka.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo  |
-| apt.hiphop  | premium   | $650      | $130          | high           | low    | 3      | namecheap |
-| bead.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo  |
-| ava.hiphop  | premium   | $640      | $116          | high           | medium | 3      | namesilo  |
-| bite.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo  |
-| bjp.hiphop  | premium   | $700      | $140          | high           | low    | 3      | namecheap |
-| bolt.hiphop | available | $23.99    | $23.99        | high           | medium | 4      | namesilo  |
-| blt.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo  |
-| bras.hiphop | available | $25.98    | $33.98        | high           | low    | 4      | namecheap |
-| bow.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo  |
-| bros.hiphop | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo  |
-| cos.hiphop  | premium   | $650      | $130          | high           | medium | 3      | namecheap |
-| clam.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo  |
-| fda.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| acne.hiphop | available | $20.90    | $20.90        | medium         | low    | 4      | spaceship   |
+| alp.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| afro.hiphop | available | $25.98    | $33.98        | high           | low    | 4      | namecheap   |
+| ans.hiphop  | premium   | $640      | $116          | medium         | low    | 3      | namesilo    |
+| ahab.hiphop | available | $25.98    | $33.98        | medium         | low    | 4      | namecheap   |
+| apt.hiphop  | premium   | $650      | $130          | high           | low    | 3      | namecheap   |
+| akka.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| ava.hiphop  | premium   | $640      | $116          | high           | medium | 3      | namesilo    |
+| bead.hiphop | available | $27       | $23.99        | high           | low    | 4      | unstoppable |
+| bao.hiphop  | premium   | $517.70   | $103.70       | medium         | low    | 3      | spaceship   |
+| bite.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| bjp.hiphop  | premium   | $700      | $140          | high           | low    | 3      | namecheap   |
+| bolt.hiphop | available | $20.90    | $20.90        | high           | high   | 4      | spaceship   |
+| blt.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| bras.hiphop | available | $25.98    | $33.98        | high           | low    | 4      | namecheap   |
+| bow.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| bros.hiphop | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
+| cos.hiphop  | premium   | $650      | $130          | high           | medium | 3      | namecheap   |
+| clam.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
+| fda.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,566 live domains                        |
+| 1,000-row public sample | 26,421 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 113 high-demand names under $2,500         |
+| Basic exported fields   | 121 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
