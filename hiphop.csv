@@ -1,14 +1,16 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+316025a2-0a7b-4d34-b909-a9658c6c13ff,bohr.hiphop,available,27,,medium,low,4,unstoppable,,,29/09/2026 18:01
 8a495db0-9b6a-4d7d-9f6b-518ceb8e0d21,promo.hiphop,available,,,high,low,5,,,,
 e4b34e8b-7dfe-4446-b150-35a65d19c2a8,armoury.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,20/09/2026 07:33
 5e6b0202-8fca-48b0-b266-f371a7252ff4,incisively.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,15/09/2026 07:42
 10aa6264-10ea-42dc-99cd-55c6e249dd95,hostess.hiphop,available,23.99,23.99,high,low,7,namesilo,,,17/09/2026 22:27
-94a79d18-fb25-4892-9edb-1064c390fb46,palladio.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,19/09/2026 04:26
+94a79d18-fb25-4892-9edb-1064c390fb46,palladio.hiphop,available,25.98,33.98,high,low,8,namecheap,,,19/09/2026 04:26
 fb79e284-efa4-46e1-bb8b-133f3af6660c,baldrick.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,21/09/2026 21:46
 3fb18ec1-012e-4dd7-a66e-ace9524851f4,fda.hiphop,premium,640,116,high,low,3,namesilo,,,25/09/2026 05:55
 6428c3ee-5aad-4e19-bfbc-f600c348c3d8,bonneville.hiphop,available,20.9,20.9,medium,low,10,spaceship,,,28/09/2026 16:50
 bcc615ba-1979-4558-9820-c5a96fc691bb,anaphase.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,19/09/2026 02:09
-92e4cdf8-31ca-4989-885d-1f97115a1d66,condolence.hiphop,available,23.99,23.99,high,low,10,namesilo,,,
+9165df42-dd1d-419d-bce4-6ccea3758f79,denies.hiphop,available,23.99,23.99,low,low,6,namesilo,,,29/09/2026 15:56
+92e4cdf8-31ca-4989-885d-1f97115a1d66,condolence.hiphop,available,23.99,23.99,high,low,10,namesilo,,,29/09/2026 10:42
 cff5e710-8050-4546-b36e-96b486bd7a1a,baseplate.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,
 2e902e46-7af6-4614-9366-96e27db74b67,barbell.hiphop,available,23.99,23.99,high,low,7,namesilo,,,22/09/2026 04:49
 3ce7add5-6724-4c89-a0cf-cb799a42b582,hoar.hiphop,available,25.98,33.98,medium,low,4,namecheap,,,20/08/2026 19:18
@@ -18,31 +20,39 @@ cff5e710-8050-4546-b36e-96b486bd7a1a,baseplate.hiphop,available,23.99,23.99,medi
 63e50206-d4fc-460c-93cd-2d1d6f7e6364,belay.hiphop,available,34.99,41.99,medium,low,5,name.com,,,23/09/2026 04:34
 3638f916-67a5-489e-8c26-db085f9a834c,commensal.hiphop,available,25.98,33.98,high,low,9,namecheap,,,12/08/2026 19:08
 654a5027-2ba7-4dd8-81d5-094dd3d2d0dc,delible.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,14/08/2026 00:35
+600225b5-fc87-4b21-a5b4-befbeed1a1d5,luo.hiphop,premium,546.35,109.69,high,low,3,porkbun,,,29/09/2026 07:30
+edec3b3f-3c80-44ac-a8ea-43542601421a,dividing.hiphop,available,20.9,20.9,medium,low,8,spaceship,,,29/09/2026 08:50
 98d59f55-e285-4ab9-a111-91cf251f4987,shook.hiphop,available,27,,medium,low,5,unstoppable,,,28/09/2026 20:26
 b18ebcee-ba4d-456e-886e-13573fcc2c8b,protects.hiphop,available,21.62,21.62,medium,low,8,dynadot,,,29/09/2026 00:03
 ec99bf90-6687-49dc-874a-8e1c3b60c344,stockton.hiphop,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 06:10
+9fe338d4-9a04-416b-a797-1876bbd51518,approximate.hiphop,available,20.9,20.9,high,low,11,spaceship,,,29/09/2026 08:31
 914618df-5b23-445b-94bb-b50e9f78ba84,authorization.hiphop,available,25.98,33.98,medium,low,13,namecheap,,,28/09/2026 08:21
 5240db65-6f89-4a70-9bbd-fe473e025b71,summon.hiphop,available,21.62,21.62,high,low,6,dynadot,,,29/09/2026 01:42
 7812675b-e063-4e14-b1cc-0152c0694a89,hey.hiphop,premium,700,140,high,medium,3,namecheap,,,
 134c2623-e0d1-4e96-942a-fd37f9779240,strontium.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,20/09/2026 22:59
+30d6f1a1-42bb-488a-9872-114b4650b449,jiangsu.hiphop,available,23.99,23.99,high,low,7,namesilo,,,29/09/2026 09:39
 4ecfe332-5d4b-4aa5-aa21-cdbf21b5196c,maitland.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,28/09/2026 01:57
-461a978c-215b-4ca5-b2f6-9b15d58eee84,severn.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,28/09/2026 15:15
+461a978c-215b-4ca5-b2f6-9b15d58eee84,severn.hiphop,available,23.99,23.99,high,low,6,namesilo,,,28/09/2026 15:15
 7c09f796-7b13-44ed-9b68-ffa345ce0943,bextra.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,23/09/2026 12:09
 1d110a9a-0089-4edf-9e73-c386d09c320d,careless.hiphop,available,23.99,23.99,high,low,8,namesilo,,,23/09/2026 12:52
 5ca6235a-42be-44de-80b2-1eb1af404c91,russians.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,27/09/2026 10:58
-12b5c258-d5e8-4d77-9c4d-61af43e0bf3a,fungus.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,28/09/2026 14:14
+12b5c258-d5e8-4d77-9c4d-61af43e0bf3a,fungus.hiphop,available,23.99,23.99,high,low,6,namesilo,,,28/09/2026 14:14
 8c211757-1522-4011-9a18-21a47a2332dd,amniote.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,18/09/2026 22:28
 b7552ed6-cc13-4ac0-9d11-a499874ef77a,afro.hiphop,available,25.98,33.98,high,low,4,namecheap,,,17/09/2026 15:30
 9a77032d-002d-44dd-9c43-baf8cf423698,allometry.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,18/09/2026 11:57
 49e20d5f-10f3-4d6d-944d-6bc9b8ac965e,manu.hiphop,available,20.9,20.9,high,low,4,spaceship,,,28/09/2026 11:11
 bcb0433c-45b3-4525-8ef2-c46a0f9c8b19,ameba.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,18/09/2026 17:40
 252b57a3-6a3c-4437-8969-b97b1ec97178,irregular.hiphop,available,25.98,33.98,high,low,9,namecheap,,,25/09/2026 11:26
+a939fa95-4d02-41c4-986e-951b0fcdef8c,wrecking.hiphop,available,20.9,20.9,medium,low,8,spaceship,,,29/09/2026 19:31
+13834ad9-b1d1-47b2-a5d9-78b286e19a32,bids.hiphop,available,23.99,23.99,high,low,4,namesilo,,,29/09/2026 15:47
 78274e6a-ef6f-43fe-a858-681f278e0f2e,bated.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,09/08/2026 00:22
 59136d00-9154-4ac3-97b3-9efe159044d1,doodlebug.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,19/09/2026 12:18
 87b7a28f-7963-4029-8b47-8571750bfa05,blush.hiphop,available,23.99,23.99,high,low,5,namesilo,,,13/08/2026 06:32
+125e9254-9cc3-44c6-b555-ad15f8d629a1,thackeray.hiphop,available,27,,medium,low,9,unstoppable,,,29/09/2026 14:03
 61ee03b7-5705-4ba2-a092-366288dd35e7,freaky.hiphop,available,23.99,23.99,high,low,6,namesilo,,,10/08/2026 10:01
 bf528186-9065-4ae9-935b-b8b9a3fd5911,dixon.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,25/09/2026 17:44
 4464a7bb-bc93-4dc9-994c-60686d8cd365,celery.hiphop,available,23.99,23.99,high,low,6,namesilo,,,19/09/2026 17:33
+7f5c64ba-bd86-4d63-b3bc-65cc44caf17c,testosterone.hiphop,available,27,,high,low,12,unstoppable,,,29/09/2026 10:23
 ad6dcaa8-8daa-4f77-94e3-24f8cb6b8e79,isothermal.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,22/08/2026 11:22
 4e7075b1-a84e-4c3a-9071-5836514913e2,antrim.hiphop,available,21.11,21.11,medium,low,6,porkbun,,,28/09/2026 16:38
 1328b406-991e-4191-8725-3ef33f23257e,sisterly.hiphop,available,23.99,23.99,high,low,8,namesilo,,,10/09/2026 08:52
@@ -51,12 +61,14 @@ ad6dcaa8-8daa-4f77-94e3-24f8cb6b8e79,isothermal.hiphop,available,23.99,23.99,med
 c56c8c5b-876a-4f82-8690-37d6c1c2a2b6,matter.hiphop,available,21.62,21.62,high,low,6,dynadot,,,28/09/2026 19:11
 8c0ca84a-5a9d-4aba-87de-46e9508f0922,aback.hiphop,available,23.99,23.99,high,low,5,namesilo,,,13/09/2026 16:07
 5c99570b-c41f-43f2-be12-2ba658cef201,shrugs.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,20/09/2026 12:14
-279f52e2-03f8-44d8-92c6-ba2566aa2167,sutherland.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,25/09/2026 04:37
+279f52e2-03f8-44d8-92c6-ba2566aa2167,sutherland.hiphop,available,23.99,23.99,high,low,10,namesilo,,,25/09/2026 04:37
+f70c6249-3846-4185-b52f-5f9115fd1be4,microscopic.hiphop,available,20.9,20.9,high,low,11,spaceship,,,29/09/2026 08:46
 6ad2d2ff-42a6-449b-8c2e-90d6f37ed28e,harriet.hiphop,available,20.9,20.9,high,low,7,spaceship,,,27/09/2026 22:29
 478d0e25-cc86-4013-889e-7a9b27376f1a,gush.hiphop,available,23.99,23.99,high,low,4,namesilo,,,22/08/2026 13:07
 c8e423b8-a373-49b3-ae1d-6bd36a36e4ce,enraged.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,
 82541285-15d0-4a9a-9045-65d12ac2751f,fly.hiphop,premium,650,130,high,medium,3,namecheap,,,24/09/2026 20:39
 b1624762-9ed8-4a17-849e-f87f5c179d94,coiled.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,12/08/2026 16:07
+8f5858ef-bbeb-40d7-85f0-6464e0272294,spokesman.hiphop,available,23.99,23.99,high,low,9,namesilo,,,29/09/2026 08:06
 bed563e3-84d0-4c11-b29d-8dd4b1725750,phyllodial.hiphop,available,25.98,33.98,high,medium,10,namecheap,,,08/09/2026 19:25
 11a58320-04d4-411e-b108-8e2713b22ae3,terrifies.hiphop,available,23.99,23.99,low,low,9,namesilo,,,18/09/2026 07:37
 d1960278-46b4-4a87-9df0-9aaa64f274ee,vivaldi.hiphop,available,23.99,23.99,high,low,7,namesilo,,,19/09/2026 15:40
@@ -68,18 +80,20 @@ ca7f5af1-a238-4497-9e22-952449f0cd40,fatten.hiphop,available,23.99,23.99,medium,
 12095f18-7a53-42ca-891d-68aeb875ad92,barley.hiphop,available,23.99,23.99,high,low,6,namesilo,,,22/09/2026 06:33
 89aa0e36-e3de-423f-a65e-d368d3b29f29,snipefish.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,23/09/2026 06:28
 4cc6b45e-00b7-4e9b-8cd1-ee6dd287298a,arousal.hiphop,available,25.98,33.98,high,medium,7,namecheap,,,09/09/2026 19:07
-c42f7cff-3272-4163-b1bb-809a7f475c16,pain.hiphop,available,,,high,low,4,,,,
 a6aaf68f-1208-4fb1-aa33-84a46a7ccabf,spaced.hiphop,available,23.99,23.99,high,medium,6,namesilo,,,10/09/2026 15:03
-a44c085b-d19f-4f0f-bce5-e35c5d255a08,biogenetic.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,10/08/2026 01:12
+a44c085b-d19f-4f0f-bce5-e35c5d255a08,biogenetic.hiphop,available,25.98,33.98,high,low,10,namecheap,,,10/08/2026 01:12
 9310ac2b-7d09-4b50-9bcf-db6d875774af,organised.hiphop,available,23.99,23.99,high,low,9,namesilo,,,26/09/2026 00:28
 a741efba-198e-430a-9eea-fb28d16eefa8,collegiate.hiphop,available,23.99,23.99,high,low,10,namesilo,,,12/08/2026 17:08
-735c2978-7326-41b7-9eb8-a16b10f3262c,sotho.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,10/09/2026 14:39
+735c2978-7326-41b7-9eb8-a16b10f3262c,sotho.hiphop,available,23.99,23.99,high,low,5,namesilo,,,10/09/2026 14:39
+5fdf43e4-2d69-4354-94c3-f3f11a92ce79,vir.hiphop,premium,640,116,medium,low,3,namesilo,,,29/09/2026 23:48
 7d597f35-8b9b-4bc3-b70c-dcb93719ed42,blackseed.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,24/09/2026 03:00
-3bca153d-2b13-44db-ac3e-2f13cae2d134,advertised.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,
-34d7c386-39b9-4f57-b96e-3ec5a59c6c14,biblical.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,09/08/2026 18:53
+3bca153d-2b13-44db-ac3e-2f13cae2d134,advertised.hiphop,available,23.99,23.99,high,low,10,namesilo,,,
+e004533f-376e-4a30-9104-a01ccdec7cc8,conventions.hiphop,available,20.9,20.9,medium,low,11,spaceship,,,29/09/2026 16:17
+34d7c386-39b9-4f57-b96e-3ec5a59c6c14,biblical.hiphop,available,25.98,33.98,high,low,8,namecheap,,,09/08/2026 18:53
 2994953c-cde4-4af3-8075-bf7440e7b5c4,winterhaven.hiphop,available,23.99,23.99,medium,low,12,namesilo,,,
-317f7861-5d0e-4734-84fc-c5690dedc420,difference.hiphop,available,23.99,23.99,high,low,10,namesilo,,,
+317f7861-5d0e-4734-84fc-c5690dedc420,difference.hiphop,available,20.9,20.9,high,low,10,spaceship,,,29/09/2026 14:33
 05796fd9-191e-4aa0-a36a-4e8a5b576bda,sunday.hiphop,available,27,23.99,high,low,6,unstoppable,,,29/09/2026 02:45
+351cf65b-4469-43e3-9240-3f4a853b26af,conn.hiphop,available,27,,high,low,4,unstoppable,,,29/09/2026 14:12
 6476185a-1620-4ff6-ae93-a0858f247990,pablo.hiphop,available,27,,high,low,5,unstoppable,,,28/09/2026 11:58
 f106933f-0153-4bdb-bc84-bc4320f22dc3,sensually.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,16/09/2026 00:58
 dbb64ed0-c9da-4940-a5df-81859c66cffa,archway.hiphop,available,23.99,23.99,high,low,7,namesilo,,,20/09/2026 02:39
@@ -90,9 +104,10 @@ c116096a-ca5f-451c-8f22-7fe878153758,decadent.hiphop,available,25.98,33.98,high,
 4f2d5b66-35a0-44e5-80be-3882ba3f52f5,cries.hiphop,available,27,,low,low,5,unstoppable,,,28/09/2026 08:31
 befe091e-afda-47c5-9f94-764e47401ea5,trifle.hiphop,available,23.99,23.99,high,low,6,namesilo,,,13/09/2026 08:07
 58d85c2d-3a17-4d8b-96a7-32eff39b6224,backfire.hiphop,available,23.99,23.99,high,low,8,namesilo,,,21/09/2026 15:28
-553c11b8-e2da-4617-b0d5-43c9573f691a,slain.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,10/09/2026 09:53
+553c11b8-e2da-4617-b0d5-43c9573f691a,slain.hiphop,available,23.99,23.99,high,low,5,namesilo,,,10/09/2026 09:53
 5b9e40bc-bd4e-4f71-bb91-1185192beedf,surfing.hiphop,available,20.9,20.9,high,low,7,spaceship,,,29/09/2026 02:15
-381c962a-e010-405c-a89d-2a1d2573abf4,disneyland.hiphop,available,23.99,23.99,high,low,10,namesilo,,,
+56198503-675a-42da-9b7b-eeb3cc22bf9b,spectator.hiphop,available,27,,high,low,9,unstoppable,,,29/09/2026 13:19
+381c962a-e010-405c-a89d-2a1d2573abf4,disneyland.hiphop,available,20.9,20.9,high,low,10,spaceship,,,29/09/2026 16:04
 4e5a9019-871e-4b37-98b6-f20c5869d87d,neritic.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,03/09/2026 15:41
 afb54c96-45e2-426f-af8e-9d0f6255deaa,calling.hiphop,available,23.99,23.99,high,low,7,namesilo,,,24/09/2026 11:48
 c4d7939b-c410-46e1-a8b7-4f78a9dc5103,returned.hiphop,available,23.99,23.99,high,low,8,namesilo,,,
@@ -104,17 +119,17 @@ c4d7939b-c410-46e1-a8b7-4f78a9dc5103,returned.hiphop,available,23.99,23.99,high,
 e6293653-5e25-468f-8d89-d0fdf4c4e5cf,year.hiphop,available,,,high,low,4,,,,
 8fd1775c-a4b8-4585-a147-faeb197259b5,jailed.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,19/09/2026 04:16
 36c3423f-d3f8-4c23-a251-883dad233872,columns.hiphop,available,20.9,20.9,low,low,7,spaceship,,,28/09/2026 23:03
-1fc0dab4-bc7d-4c29-9e86-342f0e328c05,fueled.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,18/08/2026 17:37
-57691b1f-41e8-46f7-a0db-aeed109780eb,thwart.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,09/09/2026 08:15
+1fc0dab4-bc7d-4c29-9e86-342f0e328c05,fueled.hiphop,available,23.99,23.99,high,low,6,namesilo,,,18/08/2026 17:37
+57691b1f-41e8-46f7-a0db-aeed109780eb,thwart.hiphop,available,23.99,23.99,high,low,6,namesilo,,,09/09/2026 08:15
 a5ebe032-ec33-46ad-a13c-5ef48f6eaa92,cardiac.hiphop,available,25.98,33.98,high,low,7,namecheap,,,11/08/2026 18:53
 d723b801-dcc5-4446-bb8a-eb83c9fe4a2a,undeserved.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,12/09/2026 07:43
 fa07c267-cd59-43c1-94fe-9db7447692b6,fifth.hiphop,available,23.99,23.99,high,low,5,namesilo,,,
-c78d408d-466f-48e5-97f1-7890642f28c4,washing.hiphop,available,23.99,23.99,high,low,7,namesilo,,,
+c78d408d-466f-48e5-97f1-7890642f28c4,washing.hiphop,available,23.99,23.99,high,low,7,namesilo,,,30/09/2026 02:11
 3ce5c9a4-4804-4a50-a420-8489df7ba400,dash.hiphop,available,43.99,43.99,high,medium,4,godaddy,,,28/09/2026 01:44
 c8175c5a-7606-448e-ba74-1336b181659f,prolix.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,09/09/2026 03:04
 aecc1b16-c99a-41a9-9465-6b80308fd4ad,laboured.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,22/08/2026 17:40
 ac89eb0e-77aa-49e9-8c5d-43b8187f194c,benito.hiphop,available,20.9,20.9,medium,low,6,spaceship,,,27/09/2026 19:23
-3c4a11ac-2aca-4d6f-8b92-a9f211c0347d,annapolis.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,19/09/2026 10:10
+3c4a11ac-2aca-4d6f-8b92-a9f211c0347d,annapolis.hiphop,available,23.99,23.99,high,low,9,namesilo,,,19/09/2026 10:10
 084d3bfd-c588-4a01-a73a-85e489380a80,eldest.hiphop,available,23.99,23.99,high,low,6,namesilo,,,16/08/2026 02:19
 62c583cf-992a-430b-9c8a-67a149c461f7,erotically.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,14/09/2026 15:58
 8048f773-b498-4a37-8aa4-b2a7305380a9,darkening.hiphop,available,34.99,41.99,medium,low,9,name.com,,,13/08/2026 18:10
@@ -130,10 +145,10 @@ aca3390d-a50c-4bbc-8175-a81e7ade276e,confirm.hiphop,available,25.98,33.98,high,l
 cef2e4bc-96f3-4bf0-b079-a0c71359e930,practically.hiphop,available,23.99,23.99,high,low,11,namesilo,,,25/09/2026 11:39
 78af4738-75e5-42f8-9c28-982c943dc43f,namely.hiphop,available,20.9,20.9,medium,low,6,spaceship,,,28/09/2026 16:21
 cddb04c5-a953-4605-93e3-29a882e260fa,typewriters.hiphop,available,23.99,23.99,medium,low,11,namesilo,,,21/09/2026 07:13
-df179743-a358-4b4c-9e3d-e9d92eaffe0f,bygone.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,11/08/2026 12:06
+df179743-a358-4b4c-9e3d-e9d92eaffe0f,bygone.hiphop,available,23.99,23.99,high,low,6,namesilo,,,11/08/2026 12:06
 6849c6b2-a965-4b1d-9a8c-45ab53e42701,rages.hiphop,available,23.99,23.99,low,low,5,namesilo,,,20/09/2026 11:24
 24e5cc7c-11bf-4680-a0fc-ae68ea6c81f4,agamid.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,17/09/2026 16:08
-182a0511-d844-4bf1-857f-8375fe35dadf,entrant.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,18/08/2026 07:36
+182a0511-d844-4bf1-857f-8375fe35dadf,entrant.hiphop,available,23.99,23.99,high,low,7,namesilo,,,18/08/2026 07:36
 27a777ad-2353-41b4-b4ff-338ac2892302,archangel.hiphop,available,23.99,23.99,high,low,9,namesilo,,,19/09/2026 05:59
 9ea2c05b-5ab3-4b12-b109-469fbf4641ac,cambridge.hiphop,available,23.99,23.99,high,low,9,namesilo,,,24/09/2026 11:51
 76552e58-ae56-4825-b938-df52a01b6fb4,ninety.hiphop,available,25.98,33.98,high,low,6,namecheap,,,
@@ -143,76 +158,87 @@ f37e2c08-36d4-4ecb-98e7-7fbb4c6aecea,larson.hiphop,available,25.98,33.98,medium,
 a9496f77-bf14-4422-aae4-9be28719a6f8,yarrow.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,17/09/2026 00:36
 26144931-7297-48ed-b602-f6c608dd64bf,crimes.hiphop,available,33.98,,high,low,6,namecheap,,,
 c6f891e3-576d-46a5-9da4-4e550168e7d4,odor.hiphop,available,25.98,33.98,high,low,4,namecheap,,,20/09/2026 08:25
+c4de6b40-9b22-47ee-9d18-c17b9ae993db,explored.hiphop,available,20.9,20.9,medium,low,8,spaceship,,,29/09/2026 23:24
 3f256849-6f82-48b1-b958-ed3af0cbb1a4,recycled.hiphop,available,23.99,23.99,high,low,8,namesilo,,,
 06088f22-fa31-4a9f-aed1-fe8c716c829f,matthews.hiphop,available,25.98,33.98,high,low,8,namecheap,,,25/09/2026 19:36
 5d503079-738a-4e80-80aa-bf34ce0ed996,solid.hiphop,available,21.62,21.62,high,medium,5,dynadot,,,27/09/2026 17:59
 00d740ed-04a4-439e-a971-39f67caa02e6,power.hiphop,available,23.99,23.99,high,medium,5,namesilo,,,08/09/2026 07:25
 8230c736-164f-4cc9-97e0-dc9a23edcb8a,amplifies.hiphop,available,34.99,41.99,medium,low,9,name.com,,,17/09/2026 20:54
 5f4e104f-4b17-4ae3-8477-ece114cefb4f,threescore.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,
-9dad0115-5360-4365-8705-b51077b659d5,barely.hiphop,available,20.9,20.9,medium,low,6,spaceship,,,27/09/2026 18:14
+9dad0115-5360-4365-8705-b51077b659d5,barely.hiphop,available,20.9,20.9,high,low,6,spaceship,,,27/09/2026 18:14
 330c48fe-7bee-4dd2-8206-0a9498850e4c,aversion.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,19/09/2026 14:54
 3f7f3f97-634f-4ec0-963a-7c68b0ee0bd1,modular.hiphop,available,23.99,23.99,high,high,7,namesilo,,,25/08/2026 03:17
 a066ab57-58b1-4f98-8e22-74ede73b7ca3,hosts.hiphop,available,25.98,33.98,medium,low,5,namecheap,,,18/09/2026 22:23
 ca6c88ae-7d00-4b0b-b10d-3e12401248a9,liao.hiphop,available,23.99,23.99,medium,low,4,namesilo,,,29/09/2026 01:35
 ca8d33ce-95e2-44a7-8e59-f8dd8fb85328,agincourt.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,17/09/2026 17:59
-75205648-a065-4746-a61b-d5d3c9da524d,theoretical.hiphop,available,23.99,23.99,medium,low,11,namesilo,,,29/09/2026 03:03
-f30ddcff-9049-4873-978b-d71d7c4bf7c2,gustav.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,25/09/2026 21:40
+75205648-a065-4746-a61b-d5d3c9da524d,theoretical.hiphop,available,23.99,23.99,high,low,11,namesilo,,,29/09/2026 03:03
+f30ddcff-9049-4873-978b-d71d7c4bf7c2,gustav.hiphop,available,25.98,33.98,high,low,6,namecheap,,,25/09/2026 21:40
 8854a391-ecf5-471d-a71b-1a7ae47bc87f,renewal.hiphop,available,,,high,low,7,,,,
 8e18a5f7-a327-4925-8082-5ac37351d3d3,bassine.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,22/09/2026 12:22
-9e9770ac-c101-43e5-9c64-865c89f36e0a,benzocaine.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,23/09/2026 08:58
+9e9770ac-c101-43e5-9c64-865c89f36e0a,benzocaine.hiphop,available,25.98,33.98,high,low,10,namecheap,,,23/09/2026 08:58
 cbe365e4-1ebc-4ea2-9c9a-d10ca7d5bb16,conduct.hiphop,available,23.99,23.99,high,low,7,namesilo,,,23/09/2026 03:13
 387bcb5e-78b6-4fe5-90e4-157d0977493c,negotiations.hiphop,available,25.98,33.98,medium,low,12,namecheap,,,17/09/2026 08:01
 3a874284-6602-44d5-b9e0-9a5e3cc09d45,cling.hiphop,available,25.98,33.98,high,low,5,namecheap,,,24/09/2026 15:42
 5f2a174a-cd46-4f1f-a81b-129cd3c156f4,willard.hiphop,available,25.98,33.98,medium,low,7,namecheap,,,25/09/2026 05:33
-7fcc3de4-0ac6-4fdb-adcd-db7682607e79,musset.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,18/09/2026 06:29
-d72fe738-4ba1-405b-b831-44595592e8d4,roller.hiphop,available,33.98,,high,low,6,namecheap,,,
-58f03509-a470-42e4-95a9-a216595f2bce,cinnamon.hiphop,available,23.99,23.99,high,low,8,namesilo,,,
+7fcc3de4-0ac6-4fdb-adcd-db7682607e79,musset.hiphop,available,25.98,33.98,high,low,6,namecheap,,,18/09/2026 06:29
+38cdec31-e72b-43d5-bf1b-a0fd4915757e,hillsboro.hiphop,available,21.11,21.11,medium,low,9,porkbun,,,29/09/2026 04:37
+d72fe738-4ba1-405b-b831-44595592e8d4,roller.hiphop,available,27,,high,low,6,unstoppable,,,29/09/2026 13:05
+58f03509-a470-42e4-95a9-a216595f2bce,cinnamon.hiphop,available,25.98,33.98,high,low,8,namecheap,,,29/09/2026 07:51
 a7b993c8-e173-4389-9776-07cb117c654c,fluently.hiphop,available,25.98,33.98,high,low,8,namecheap,,,14/09/2026 19:08
 1a1dc192-ae3a-44d7-a2e7-475d16f82aae,picaresque.hiphop,available,25.98,33.98,high,medium,10,namecheap,,,08/09/2026 19:30
 f6194eea-9446-408e-8473-6ee74336f191,basely.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,13/09/2026 23:35
 07be3db3-f9bd-4585-add6-93b0e9b7d7d9,verpa.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,23/09/2026 05:34
 a441fc76-e9b8-4b42-957b-8d73dfdd130d,barrow.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,22/09/2026 08:41
 16b441b0-6f3f-43e2-b879-c61d7c7d1f97,sauciness.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,20/09/2026 02:25
+a9c108d1-bed5-4b24-8ae6-457d844e8fb4,isomers.hiphop,available,25.98,33.98,medium,low,7,namecheap,,,29/09/2026 11:02
 5ee8e044-8101-4654-b842-5d735f4d2fb8,pairs.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,16/09/2026 14:58
 1cd360c3-8c44-49bf-97bd-4b49d4e7fd22,niebuhr.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,22/09/2026 09:08
 a739d7f0-e8f8-4e65-b9c9-507642318de5,attack.hiphop,available,20.9,20.9,high,low,6,spaceship,,,28/09/2026 08:45
+2073c68b-07c7-471e-a597-d64a07e32d5b,naturalism.hiphop,available,20.9,20.9,high,low,10,spaceship,,,29/09/2026 13:32
 37c9ef71-f0fc-4c90-81a7-1793d3681db2,vitamin.hiphop,available,23.99,23.99,high,low,7,namesilo,,,08/09/2026 14:16
+18848c35-c394-41f8-bde3-ab80ae9acf72,sections.hiphop,available,21.62,21.62,medium,low,8,dynadot,,,29/09/2026 05:14
+ea636554-72c1-4d31-88a4-d22a79ea26cb,nafta.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,29/09/2026 07:38
 6aa804c2-64eb-44ae-a275-aa53e39b6a5c,fired.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,24/09/2026 11:05
 37c42978-407a-47bd-9da5-05bde6007a50,whiff.hiphop,available,23.99,23.99,high,low,5,namesilo,,,09/09/2026 05:39
-42853879-d027-4faf-a585-e7c811ea3846,gonzales.hiphop,available,20.9,20.9,medium,low,8,spaceship,,,27/09/2026 20:26
+42853879-d027-4faf-a585-e7c811ea3846,gonzales.hiphop,available,20.9,20.9,high,low,8,spaceship,,,27/09/2026 20:26
 962f8368-34ad-4702-862a-aefd91257973,interbrain.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,23/09/2026 11:55
 03e6cfc9-1c55-4d1f-9aac-9b79e3066ac7,kicked.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,25/09/2026 19:40
 a88bebf2-de3f-4a19-a3af-fbc3fd79c506,further.hiphop,available,23.99,23.99,high,low,7,namesilo,,,24/09/2026 17:03
 192f598f-cbb9-4244-9126-140f1d6d78f4,mackenzie.hiphop,available,23.99,23.99,high,low,9,namesilo,,,25/09/2026 21:54
 ac16ac10-6880-493b-92d8-8cb25edc82c6,rapt.hiphop,available,23.99,23.99,high,low,4,namesilo,,,14/08/2026 23:50
 26688e0d-110d-4ed2-9537-4f88f50d66d6,beast.hiphop,available,23.99,23.99,high,low,5,namesilo,,,22/09/2026 04:42
+d4734ce9-b645-4f99-903f-c995d3f41950,audiences.hiphop,available,27,,medium,low,9,unstoppable,,,29/09/2026 11:20
 3049761a-75bf-4aea-848f-9760d6661ad4,pickaback.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,15/09/2026 19:48
 f3e5e75f-7d1b-4e5a-9076-e7595e48cd70,verne.hiphop,available,21.11,21.11,medium,low,5,porkbun,,,29/09/2026 01:27
-894b2e9a-f3ac-44b4-87ae-823c3445cd62,protozoan.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,09/09/2026 04:12
+894b2e9a-f3ac-44b4-87ae-823c3445cd62,protozoan.hiphop,available,23.99,23.99,high,low,9,namesilo,,,09/09/2026 04:12
 b4864866-7c80-4f26-a041-d98a618dc268,stylishly.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,16/09/2026 07:28
 20921cbf-e008-442c-9092-37beaa8d3352,signalise.hiphop,available,23.99,23.99,high,medium,9,namesilo,,,10/09/2026 08:02
+d77133e4-30ad-45ca-9b5d-d0a1f0f84497,kmt.hiphop,premium,517.7,103.7,medium,low,3,spaceship,,,29/09/2026 22:33
 78e8e2bc-0766-44a9-85b3-ec358062b283,chant.hiphop,available,23.99,23.99,high,low,5,namesilo,,,24/09/2026 13:41
 7c8ddb0e-808f-4ace-98b4-d7b60b3e8ee9,capsule.hiphop,available,25.98,33.98,high,low,7,namecheap,,,28/09/2026 05:53
 f66423ff-c526-444c-888c-5813b8b10d9c,frustration.hiphop,available,20.9,20.9,medium,low,11,spaceship,,,28/09/2026 17:13
 fd2af660-4123-4f4e-8254-d876ce6314b0,refundable.hiphop,available,23.99,23.99,high,low,10,namesilo,,,
 20debd2b-722e-433a-b508-b2c7d0dce8bb,respectively.hiphop,available,23.99,23.99,medium,low,12,namesilo,,,
+13527434-1d13-494a-b6c5-ff609137fcef,isp.hiphop,premium,500.2,,high,low,3,unstoppable,,,29/09/2026 20:49
 aced5fbe-691d-4d43-aa06-396af2789096,abilities.hiphop,available,23.99,23.99,high,low,9,namesilo,,,17/09/2026 04:45
-3941e0cc-44cb-4060-b8ef-628cef3e2201,lunch.hiphop,available,23.99,23.99,high,low,5,namesilo,,,
+3941e0cc-44cb-4060-b8ef-628cef3e2201,lunch.hiphop,available,23.99,23.99,high,low,5,namesilo,,,29/09/2026 13:42
 1f3e78df-09b4-4f81-90fb-ae9869c628ad,moshe.hiphop,available,20.9,20.9,medium,low,5,spaceship,,,28/09/2026 12:12
 a7ad6095-de4f-4c22-9174-c0cebcab4a5a,redial.hiphop,available,23.99,23.99,high,low,6,namesilo,,,16/09/2026 12:47
 8fbaa189-4fb0-4ad6-b29d-68c7fbdeb709,tow.hiphop,premium,640,116,high,low,3,namesilo,,,
 6b4bb637-a4e7-431d-8445-345f1737926d,favour.hiphop,available,25.98,33.98,high,low,6,namecheap,,,25/09/2026 05:51
 5d28572a-0dfc-47c4-ab28-edc6cd454e75,roses.hiphop,available,25.98,33.98,high,low,5,namecheap,,,17/09/2026 21:17
 c6a91878-6c0a-4064-b99a-0140281d91e9,budgets.hiphop,available,25.98,33.98,medium,low,7,namecheap,,,28/09/2026 08:37
+66d191f3-e08d-44d8-9c1e-25dbcc8a0232,zapata.hiphop,available,20.9,20.9,high,low,6,spaceship,,,29/09/2026 18:45
 1ab26673-4330-4d03-b31d-b46f5929c314,connoisseur.hiphop,available,23.99,23.99,high,low,11,namesilo,,,29/09/2026 02:31
 39445918-34e2-4a38-b206-cff3df13a7c5,umbilical.hiphop,available,23.99,23.99,high,low,9,namesilo,,,11/09/2026 23:00
 6c98faf7-1f2e-4368-88cf-7858245273df,neighboring.hiphop,available,33.98,,high,low,11,namecheap,,,
 08676d19-d3af-403d-ba92-77a49e20cccd,idly.hiphop,available,23.99,23.99,high,low,4,namesilo,,,15/09/2026 01:38
 8a130900-6b3b-4ed2-b9f4-66bc9e91b5f7,sinewy.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,11/08/2026 02:52
-f599a3db-0ccd-4ac1-80ed-0aa519b52812,bowman.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,20/09/2026 01:56
+f599a3db-0ccd-4ac1-80ed-0aa519b52812,bowman.hiphop,available,23.99,23.99,high,low,6,namesilo,,,20/09/2026 01:56
 6938100c-0e3e-4b0e-b75b-e7e38c141c0e,engel.hiphop,available,27,,high,low,5,unstoppable,,,28/09/2026 04:50
+f48a6704-9164-4e10-8ecb-3c221bf1ddab,perish.hiphop,available,27,,medium,low,6,unstoppable,,,29/09/2026 18:32
 6ba1c6be-7d6f-4661-80e5-42a72c036e42,squashed.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,10/09/2026 17:31
-6a0e53ad-ec8e-4bbd-90e4-97ca96e3a060,arriver.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,20/09/2026 09:16
+6a0e53ad-ec8e-4bbd-90e4-97ca96e3a060,arriver.hiphop,available,23.99,23.99,high,low,7,namesilo,,,20/09/2026 09:16
 f68c7d91-00ba-4abf-84f3-3f4e3da7ccce,rhombic.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,09/09/2026 16:43
 e138f5e9-0cac-4681-b930-eee812a37362,zag.hiphop,premium,640,116,high,low,3,namesilo,,,13/09/2026 15:17
 bc74ef44-614f-486c-bc20-9b871400c372,airplanes.hiphop,available,20.9,20.9,medium,low,9,spaceship,,,28/09/2026 22:55
@@ -220,7 +246,7 @@ bc74ef44-614f-486c-bc20-9b871400c372,airplanes.hiphop,available,20.9,20.9,medium
 28d86ef2-64c8-4107-b2d3-25f6fb26487c,understand.hiphop,available,,,high,low,10,,,,
 1d9cc149-acdd-428c-b9e0-7b823c7ce9b5,amorphous.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,
 4d66f719-60cb-49b5-b2aa-95beb6b19ebb,bioscience.hiphop,available,25.98,33.98,high,low,10,namecheap,,,23/09/2026 18:59
-025e8921-e0d0-4d66-a6cc-d3fa3942942f,shout.hiphop,available,33.98,,high,low,5,namecheap,,,
+025e8921-e0d0-4d66-a6cc-d3fa3942942f,shout.hiphop,available,25.98,33.98,high,low,5,namecheap,,,29/09/2026 12:22
 3f8fd423-8ed8-41ea-a734-8b33f4802224,nohow.hiphop,available,23.99,23.99,low,low,5,namesilo,,,15/09/2026 16:44
 7e37c1f4-765d-4551-8509-22a96d890c9e,organism.hiphop,available,20.9,20.9,high,low,8,spaceship,,,28/09/2026 15:00
 82fdc337-d958-4dd9-9cee-08e1453aba93,burry.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,08/08/2026 17:29
@@ -230,22 +256,25 @@ f7b1b60e-bbf1-40ae-bcc2-27baa73d494f,pressed.hiphop,available,23.99,23.99,high,l
 f8432df4-8411-4267-90f6-e64e479a9aa4,suggesting.hiphop,available,20.9,20.9,high,low,10,spaceship,,,27/09/2026 17:56
 13742afb-2da3-43b7-a831-8b440d6ad368,spheroidal.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,16/08/2026 05:22
 a6763351-0ed9-49d9-92f1-585e1c9e8998,furious.hiphop,available,,,high,low,7,,,,
-3bc8cff4-fc58-41a2-9d9f-ab35ffebe9ca,bao.hiphop,premium,517.7,103.7,medium,low,3,spaceship,,,28/09/2026 21:38
+3bc8cff4-fc58-41a2-9d9f-ab35ffebe9ca,bao.hiphop,premium,517.7,103.7,high,low,3,spaceship,,,28/09/2026 21:38
 837789ea-53f1-4eb5-92f1-5907402aec50,inch.hiphop,available,23.99,23.99,high,low,4,namesilo,,,25/09/2026 08:00
 61d1a272-c434-45a8-aaba-07668b952613,damned.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,22/09/2026 21:41
 4ba996ed-cd98-4365-a95b-7d8fa4ca1ed7,aeneas.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,17/09/2026 12:27
-9ed2f3ba-0fd9-4914-82a2-a9401edd3986,thiamin.hiphop,available,34.99,41.99,medium,low,7,name.com,,,19/09/2026 05:39
+9ed2f3ba-0fd9-4914-82a2-a9401edd3986,thiamin.hiphop,available,34.99,41.99,high,low,7,name.com,,,19/09/2026 05:39
 e0a61073-4ab7-40c0-a675-8848f0bca907,parve.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,08/09/2026 01:27
 b60b080f-a153-4bc6-9f82-b4b47626470a,agronomist.hiphop,available,25.98,33.98,high,low,10,namecheap,,,17/09/2026 19:41
-bb793bae-9273-4000-a882-d36c0f026661,napoleon.hiphop,available,20.9,20.9,medium,low,8,spaceship,,,28/09/2026 13:35
+bb793bae-9273-4000-a882-d36c0f026661,napoleon.hiphop,available,20.9,20.9,high,low,8,spaceship,,,28/09/2026 13:35
+2d50509d-d7c3-4bf7-aadf-aa06d2705f1c,rebirth.hiphop,available,23.99,23.99,high,low,7,namesilo,,,30/09/2026 02:16
 3e8b74d7-7ac9-48de-8247-9fa15b3440d2,outlaw.hiphop,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 01:45
 c22d2a67-486a-4c9b-bedf-7c35913215ba,secure.hiphop,available,23.99,23.99,high,medium,6,namesilo,,,28/09/2026 05:39
-61e15c7e-3cca-4381-a52f-d78ee3d3859a,january.hiphop,available,23.99,23.99,high,low,7,namesilo,,,
+61e15c7e-3cca-4381-a52f-d78ee3d3859a,january.hiphop,available,23.99,23.99,high,low,7,namesilo,,,30/09/2026 00:38
 07a1253b-e46f-4716-9f3d-84e374a94410,bistre.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,23/09/2026 22:12
 4e3ffca5-7457-4293-a4c7-0b3529a4bf21,revocable.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,09/09/2026 16:21
 3f4ec391-cf06-4d66-95f5-b394b9e28d25,aztec.hiphop,available,23.99,23.99,high,low,5,namesilo,,,21/09/2026 11:36
 4b01c138-7f7d-4bf2-8b72-5bbc0684bf0b,upright.hiphop,available,23.99,23.99,high,low,7,namesilo,,,17/08/2026 12:05
 019864f6-0406-48af-bf7c-d1851c450600,hewn.hiphop,available,23.99,23.99,medium,low,4,namesilo,,,20/08/2026 23:16
+73edc31e-0294-40e3-9282-1b4c9bd538e2,acosta.hiphop,available,23.99,23.99,high,low,6,namesilo,,,29/09/2026 22:34
+8770e406-b463-4871-903c-b58fcb840992,delays.hiphop,available,27,,low,low,6,unstoppable,,,29/09/2026 17:36
 0c5fb423-15eb-41f7-8ff8-b6f511b2de0d,repulse.hiphop,available,23.99,23.99,high,medium,7,namesilo,,,10/09/2026 12:48
 ecc243cd-aeb1-4441-bc48-8b2c00163250,colossus.hiphop,available,23.99,23.99,high,low,8,namesilo,,,23/09/2026 03:27
 02c77226-4171-429d-add7-e090c3fce897,thirty.hiphop,available,23.99,23.99,high,low,6,namesilo,,,
@@ -279,19 +308,26 @@ c371db4a-1336-4d95-b22f-aec4a5d2166a,burst.hiphop,available,23.99,23.99,high,low
 8749cf55-c851-4b32-8d86-60e8c922b757,modesty.hiphop,available,33.98,,high,low,7,namecheap,,,
 56eee978-cd49-4882-bf6a-e2bbecef3b1b,lillian.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,26/09/2026 03:34
 f5bad5fb-e6fe-4942-a604-9a39abda1c6d,duval.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,28/09/2026 11:57
+8b97a270-d45c-4bed-a03d-09c3fcfb4fd8,digby.hiphop,available,20.9,20.9,high,low,5,spaceship,,,29/09/2026 15:01
 9773e1ea-109a-4edc-ba84-5d65fa3351fc,sculptural.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,25/08/2026 02:53
 fba4bc51-61b8-4f8c-8674-5e436433b47a,touching.hiphop,available,23.99,23.99,high,low,8,namesilo,,,
 382355b5-0bf2-4ca8-996e-793366ac49b0,aboard.hiphop,available,20.9,20.9,high,low,6,spaceship,,,28/09/2026 11:33
+a439862d-c89e-4368-ae36-fb743d693a12,chores.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,29/09/2026 17:46
+1ba03a6b-ad2f-4b75-b4dd-891a8e7e1b40,clarke.hiphop,available,21.11,21.11,high,medium,6,porkbun,,,29/09/2026 17:07
 6fe1b994-fa33-4011-adf1-5c2b55b344cd,annul.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,13/09/2026 06:39
 27559d57-f04a-4656-82dd-ac6547b37902,exquisite.hiphop,available,25.98,33.98,high,low,9,namecheap,,,17/08/2026 18:54
+1467e0a9-b287-429b-a5c4-78c9c82e8a10,scenarios.hiphop,available,20.9,20.9,medium,low,9,spaceship,,,29/09/2026 17:21
 a413b0c8-8cba-45db-8aea-2e0bbf5e0e67,type.hiphop,available,,,high,low,4,,,,
 b9a6da7c-6200-4007-9926-9444e3404229,unsealed.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,12/09/2026 19:07
 d255dc9a-924f-40c3-a6e2-036ec5e5b3d5,antitumor.hiphop,available,25.98,33.98,high,low,9,namecheap,,,22/09/2026 06:40
-ebf0843a-5d76-456c-a4a6-449b9d47d0f0,pill.hiphop,available,27,,medium,low,4,unstoppable,,,28/09/2026 21:31
-cb4986ce-6256-4036-970d-2508d83642aa,dime.hiphop,available,23.99,23.99,high,low,4,namesilo,,,
+ebf0843a-5d76-456c-a4a6-449b9d47d0f0,pill.hiphop,available,27,,high,low,4,unstoppable,,,28/09/2026 21:31
+cb4986ce-6256-4036-970d-2508d83642aa,dime.hiphop,available,27,23.99,high,low,4,unstoppable,,,29/09/2026 14:59
 5fa456cd-6047-4f70-82fe-cb5871bb832d,bremen.hiphop,available,23.99,23.99,high,low,6,namesilo,,,25/09/2026 21:59
+5d8b4d6b-d634-4042-9950-3ef1eded474a,summons.hiphop,available,20.9,20.9,high,low,7,spaceship,,,29/09/2026 08:10
 f9a3c640-bf20-49b9-80b6-5bf26ee850c0,slant.hiphop,available,23.99,23.99,high,low,5,namesilo,,,22/08/2026 22:07
+55d12d56-322b-4128-8c93-a21c2aabebd5,humming.hiphop,available,23.99,23.99,high,low,7,namesilo,,,29/09/2026 07:18
 0ab9d993-1cc6-4528-a45d-b9c711514391,uss.hiphop,premium,650,130,high,low,3,namecheap,,,25/09/2026 13:39
+c3f2af36-eeca-4895-9840-2110ea899ae3,defended.hiphop,available,20.9,20.9,low,low,8,spaceship,,,29/09/2026 05:23
 bef0d9e9-1e16-48c7-a183-22c438c60e9d,barbarous.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,08/08/2026 15:40
 4609f1a8-3d8b-4024-b704-bc96367047db,colon.hiphop,available,23.99,23.99,high,low,5,namesilo,,,20/09/2026 15:16
 58aeb441-b77a-49d4-8fdd-030c63def896,unpredictable.hiphop,available,20.9,20.9,medium,low,13,spaceship,,,28/09/2026 15:57
@@ -306,12 +342,14 @@ b14f9478-781a-4ddc-abc9-c5d94e232582,banal.hiphop,available,23.99,23.99,medium,l
 e6e1e20c-0f32-4563-84f3-8ea8ac48fcb8,snobby.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,12/08/2026 11:23
 2dbaa509-b17d-4c3e-bb89-97660b181c4d,ease.hiphop,available,23.99,23.99,high,low,4,namesilo,,,27/09/2026 13:14
 f0d851e3-6ad4-4c95-9645-31ba6a570882,manganese.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,20/09/2026 22:40
+833d5a57-25e9-442a-97a9-cc7e4961ae40,menlo.hiphop,available,21.11,21.11,medium,low,5,porkbun,,,29/09/2026 22:34
 5264558a-03ab-4177-9de6-a34f6a108f64,panoramic.hiphop,available,25.98,33.98,high,low,9,namecheap,,,22/09/2026 21:06
 0f680386-7b83-4476-bfed-7fdfa34493e2,unsheathed.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,12/09/2026 19:47
 ae5c7c76-a1f7-4435-b90f-d9f5cd2bbdb8,institute.hiphop,available,20.9,20.9,high,low,9,spaceship,,,28/09/2026 06:02
 b3ee19c4-759f-426d-afcb-a920dac47949,seasonal.hiphop,available,23.99,23.99,high,low,8,namesilo,,,10/09/2026 00:58
 03fcb35c-a333-4b03-90df-add5180edf0e,sachs.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,27/09/2026 01:53
 ad787f3c-61e6-460d-aa52-9f693d6274d7,concretely.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,14/09/2026 08:12
+1bc0fd88-de4b-42f4-8f71-e9383342abea,landings.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,30/09/2026 00:42
 ff9b88c6-b4d4-49e9-b29b-6836edb757ba,umbrellas.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,18/09/2026 22:52
 43680aae-0ff2-41f0-bb09-dd38f7ffd97d,realty.hiphop,available,25.98,33.98,high,low,6,namecheap,,,21/08/2026 21:24
 c52cc44c-90da-4d6b-9743-7c487a303c71,bullying.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,23/09/2026 10:48
@@ -321,15 +359,18 @@ d81416c7-2121-4469-a307-f03dce57f786,bjp.hiphop,premium,700,140,high,low,3,namec
 c80ae064-913b-43f2-b50f-001a518ffdd5,metier.hiphop,available,23.99,23.99,high,low,6,namesilo,,,18/08/2026 12:29
 49b01c4a-81fe-4858-bfd4-b4b847382917,harquebus.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,20/09/2026 08:40
 a47a405b-3890-4aa9-90cb-7a3c5bbe6e8b,centralised.hiphop,available,23.99,23.99,high,low,11,namesilo,,,
+9123af7d-5521-4761-8374-72b274a4d102,goddard.hiphop,available,43.99,43.99,medium,low,7,godaddy,,,30/09/2026 01:46
 cca0b926-0e71-40ea-8a1b-e44bbfd84884,betimes.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,13/09/2026 23:59
 98737c46-f65a-47f2-b823-c067b3686138,labored.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,22/08/2026 17:34
+3b7f1aba-b72b-432d-a18b-91c0c925be7f,psd.hiphop,premium,517.7,103.7,high,low,3,spaceship,,,29/09/2026 21:36
 8db9e785-36bb-40b0-84b2-afe32b7a9f1f,cyclical.hiphop,available,34.99,41.99,high,low,8,name.com,,,13/08/2026 13:34
 52c33924-a100-48d8-8155-96b4f3215bf9,spectre.hiphop,available,23.99,23.99,high,low,7,namesilo,,,08/09/2026 18:42
+a3ee726a-ece5-4b8a-894a-c87756f85fec,fergus.hiphop,available,21.11,21.11,medium,low,6,porkbun,,,29/09/2026 05:30
 1b264dab-f7d2-48b2-9eaa-d8f1ad37f8e4,fuss.hiphop,available,23.99,23.99,high,low,4,namesilo,,,17/09/2026 09:21
 fbe76e67-dee1-4da8-ae3d-0a4fef3f1fa5,gpa.hiphop,premium,640,116,high,low,3,namesilo,,,28/09/2026 05:52
 9cd3d1ca-dc96-4fca-8ae6-492323b8f210,resign.hiphop,available,23.99,23.99,high,low,6,namesilo,,,28/09/2026 11:09
-4addf8f1-f644-4733-855b-f33e49d11a25,lisboa.hiphop,available,23.99,23.99,high,low,6,namesilo,,,
-410e6e4b-1a18-421a-be9e-c63a391f62fe,bather.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,22/09/2026 13:31
+c8af8bb2-b19e-458f-a69a-2416e8b9750f,plumber.hiphop,available,21.11,21.11,high,low,7,porkbun,,,29/09/2026 20:00
+410e6e4b-1a18-421a-be9e-c63a391f62fe,bather.hiphop,available,23.99,23.99,high,low,6,namesilo,,,22/09/2026 13:31
 9fbd694c-073c-4426-8807-9699aa1fa409,riches.hiphop,available,21.62,21.62,high,low,6,dynadot,,,28/09/2026 20:20
 e22a2f27-e0e1-4a33-9c38-9efbbae3bd63,bayberry.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,22/09/2026 17:18
 64f58584-64dc-4a07-889d-2b69d75ca920,rheologic.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,09/09/2026 16:35
@@ -343,8 +384,9 @@ d97e3985-46ac-488a-8c0d-238b4225bd42,lashings.hiphop,available,23.99,23.99,high,
 ad7d2abc-1419-4632-82f4-40ae6a3d344c,buzzing.hiphop,available,23.99,23.99,high,low,7,namesilo,,,
 0b2251aa-152b-4fda-a32e-01c1297ca9a6,quirky.hiphop,available,23.99,23.99,high,low,6,namesilo,,,17/08/2026 22:23
 30c87ae4-fc62-4e1d-ac1b-9ec5af80fa3f,utah.hiphop,available,23.99,23.99,high,low,4,namesilo,,,23/09/2026 01:17
-1ae7184c-40ac-47e7-a7d5-c9f07183551e,pad.hiphop,premium,640,116,high,low,3,namesilo,,,
+1ae7184c-40ac-47e7-a7d5-c9f07183551e,pad.hiphop,premium,640,116,high,low,3,namesilo,,,29/09/2026 16:29
 d26f94a9-97f2-4d30-909e-0c719c8cbf52,unauthorized.hiphop,available,23.99,23.99,medium,low,12,namesilo,,,28/09/2026 22:49
+d6992f3b-f955-440c-875e-ab5facc8062a,tanker.hiphop,available,23.99,23.99,high,low,6,namesilo,,,29/09/2026 07:46
 44f42ad1-7358-4a9e-9260-4b76bdff148d,cleaned.hiphop,available,23.99,23.99,high,low,7,namesilo,,,27/09/2026 02:45
 3a5419a9-aac3-4a27-a3f1-be335b7dedf0,anthology.hiphop,available,25.98,33.98,high,low,9,namecheap,,,19/09/2026 13:28
 95ac0e6f-daf1-44a8-83f6-25d91ec045ab,sic.hiphop,premium,640,116,high,low,3,namesilo,,,16/09/2026 01:41
@@ -361,24 +403,25 @@ f68427ff-9061-45da-9502-f79562775eb4,backspacer.hiphop,available,23.99,23.99,med
 cdb963d1-3c6c-4183-b932-7fe116e3bb01,peacemaker.hiphop,available,23.99,23.99,high,low,10,namesilo,,,24/09/2026 10:53
 7cdc896d-16db-4f02-a99a-3d703a32d3ce,batten.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,22/09/2026 14:27
 97103138-171f-4d69-b5da-eaa2c8033478,savagery.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,22/09/2026 04:29
+280d9c0d-f302-45a7-a21f-29410235ac51,presidency.hiphop,available,23.99,23.99,high,low,10,namesilo,,,29/09/2026 13:43
 ca889b16-7916-4884-9dc2-4ea65bec5696,reusable.hiphop,available,23.99,23.99,high,low,8,namesilo,,,09/09/2026 11:33
-2bcc70e1-58b1-40a8-888d-7a023cbb5e13,chequebook.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,24/09/2026 13:58
+2bcc70e1-58b1-40a8-888d-7a023cbb5e13,chequebook.hiphop,available,25.98,33.98,high,low,10,namecheap,,,24/09/2026 13:58
 7eebca49-60a9-4714-85dd-8d58c11f25d7,outlawed.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,21/08/2026 19:52
 0d760b86-5fd9-4dad-9ea2-b95b9f9f3c57,hogan.hiphop,available,23.99,23.99,high,low,5,namesilo,,,23/09/2026 07:21
+47f0a338-e8b3-4887-a811-856ef3c52dc9,naples.hiphop,available,20.9,20.9,medium,low,6,spaceship,,,29/09/2026 07:39
 9c16115b-dd78-4893-abf0-678e97420c19,seamless.hiphop,available,23.99,23.99,high,low,8,namesilo,,,10/09/2026 00:47
 17fbac87-6007-4bab-967b-757fb231be3a,crested.hiphop,available,23.99,23.99,high,low,7,namesilo,,,13/08/2026 06:20
 409a26a5-dd04-43d3-979d-12f90e443713,cowpea.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,23/09/2026 23:43
 733ed159-593a-4bf1-a674-d3ebed656d0d,ecologic.hiphop,available,25.98,33.98,high,low,8,namecheap,,,10/08/2026 02:32
 b99b4697-e6a2-4ad8-ab0c-ca09fb95d4c4,resinous.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,09/09/2026 15:13
-eaa607d3-0eb4-4b29-8a32-01a360cee781,steal.hiphop,available,23.99,23.99,high,low,5,namesilo,,,
+eaa607d3-0eb4-4b29-8a32-01a360cee781,steal.hiphop,available,21.11,21.11,medium,low,5,porkbun,,,29/09/2026 05:35
 d145dc79-6779-458d-98e0-7094c3922eca,anthropic.hiphop,available,23.99,23.99,high,high,9,namesilo,,,
 dd36070b-977a-4ce5-b0e6-256f434a120e,troubling.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,14/08/2026 13:19
 58d14990-753e-4e0f-aa86-d36aae81d793,cereal.hiphop,available,23.99,23.99,high,low,6,namesilo,,,12/08/2026 00:26
 1fb36776-5ef4-4282-9748-4feaab6e094b,fran.hiphop,available,23.99,23.99,high,low,4,namesilo,,,
 f9e1ad88-3321-470a-a3f5-0351db367ce0,dock.hiphop,available,23.99,23.99,high,low,4,namesilo,,,22/09/2026 23:34
-33f1fa31-e9a7-40a8-b8e6-cb96199d69a6,reading.hiphop,available,,,high,low,7,,,,
 bd4d406f-244d-49ce-a012-241d734c11c7,polynomials.hiphop,available,23.99,23.99,medium,low,11,namesilo,,,27/09/2026 09:22
-5c856372-ea92-483f-aae3-46503334647d,equals.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,18/09/2026 22:09
+5c856372-ea92-483f-aae3-46503334647d,equals.hiphop,available,23.99,23.99,high,low,6,namesilo,,,18/09/2026 22:09
 194e527e-56bf-48a0-b55c-904e188f5989,apologist.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,19/09/2026 18:45
 e7496e22-e313-499c-8a1f-19655fe63a04,timing.hiphop,available,23.99,23.99,high,low,6,namesilo,,,27/09/2026 05:40
 b85cd1f9-cbcc-48e8-98b0-7ffde0a8a8ef,intangible.hiphop,available,25.98,33.98,high,low,10,namecheap,,,21/08/2026 21:42
@@ -399,27 +442,30 @@ cfe28b85-cbd5-489d-817a-f58899227549,chinatown.hiphop,available,27,,high,low,9,u
 2ffa18e2-26e3-4875-bd47-812e8b96351c,conniption.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,18/08/2026 05:43
 146f008e-239b-41ac-873b-0af53e283c19,melrose.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,28/09/2026 08:55
 3212ae02-12a6-4657-a652-c9b0cdcfe5f7,dark.hiphop,available,23.99,23.99,high,medium,4,namesilo,,,24/09/2026 04:29
-615bd4a4-5b6a-4493-9999-3a50a378cea7,cordially.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,14/09/2026 08:43
+615bd4a4-5b6a-4493-9999-3a50a378cea7,cordially.hiphop,available,23.99,23.99,high,low,9,namesilo,,,14/09/2026 08:43
 5b884419-6750-4ba2-9105-80889ca537ee,dinnertime.hiphop,available,23.99,23.99,high,low,10,namesilo,,,24/09/2026 22:22
 68cdd091-5f65-41a3-afea-7b0de8376b37,inspiring.hiphop,available,23.99,23.99,high,low,9,namesilo,,,25/09/2026 09:50
 94aba0cb-ab74-4ca3-acce-77ad86957433,sufi.hiphop,available,23.99,23.99,high,low,4,namesilo,,,11/09/2026 01:14
 d1f620c9-055d-41a8-a8f9-31827dfbdc34,acumen.hiphop,available,25.98,33.98,high,low,6,namecheap,,,17/09/2026 05:39
 79fa1b41-991d-4cd8-9f69-cf634384a508,lucille.hiphop,available,21.11,21.11,medium,low,7,porkbun,,,28/09/2026 21:59
 6c634c9a-0b88-4bbf-b911-5ce81fd30396,inflexible.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,22/08/2026 04:32
-09d01aa4-ff42-4d3d-9ea3-abdcb9231682,degenerate.hiphop,available,34.99,41.99,medium,low,10,name.com,,,13/08/2026 20:16
+09d01aa4-ff42-4d3d-9ea3-abdcb9231682,degenerate.hiphop,available,34.99,41.99,high,low,10,name.com,,,13/08/2026 20:16
 a01dcbc5-29b0-445a-96ea-8b1b4164c628,behemoth.hiphop,available,23.99,23.99,high,low,8,namesilo,,,23/09/2026 03:24
+1e9ee789-0cdf-44ff-93e1-61a28a80f675,thc.hiphop,premium,640,116,high,medium,3,namesilo,,,29/09/2026 08:13
 ddad353c-e379-4a49-9632-1c280b4d9a12,lxxx.hiphop,available,25.98,33.98,medium,low,4,namecheap,,,
 5e4932e2-75cd-421a-92f3-44cdbebdf93f,eagerness.hiphop,available,23.99,23.99,high,low,9,namesilo,,,21/09/2026 09:28
 750f7988-f71b-4f85-a667-77be99638117,tacitly.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,16/09/2026 07:43
 d70dedd3-975f-48f2-9bc0-c294b3b84252,patton.hiphop,available,23.99,23.99,high,low,6,namesilo,,,25/09/2026 16:06
 f1ea1bd5-abda-4048-8fe0-4f1bed167fc8,carry.hiphop,available,25.98,33.98,high,low,5,namecheap,,,28/09/2026 00:56
-e101937c-3d8a-480d-8cc8-3b098725d38c,coventry.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,22/09/2026 02:09
+e101937c-3d8a-480d-8cc8-3b098725d38c,coventry.hiphop,available,25.98,33.98,high,low,8,namecheap,,,22/09/2026 02:09
 3bab26da-e40a-4bfc-8e95-c864c522d7bd,pumping.hiphop,available,25.98,33.98,high,low,7,namecheap,,,17/09/2026 18:09
 7ae4f1b2-ebcb-4cd9-a69f-af839bb48fac,unshaken.hiphop,available,23.99,23.99,high,low,8,namesilo,,,12/09/2026 07:04
 4f11cd5f-fdfd-4ddb-93d0-cfdddf5e3414,starkest.hiphop,available,23.99,23.99,low,low,8,namesilo,,,20/09/2026 22:48
-7bbb81f5-2778-4221-9239-ca13835a0d67,sterilizer.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,21/09/2026 06:04
+d07c692b-c86f-4d1b-950e-fa46edf169f8,streams.hiphop,available,25.98,33.98,high,low,7,namecheap,,,29/09/2026 16:56
+7bbb81f5-2778-4221-9239-ca13835a0d67,sterilizer.hiphop,available,23.99,23.99,high,low,10,namesilo,,,21/09/2026 06:04
 a8732db6-722a-49b9-9dc0-e8b95f02ea12,lieutenant.hiphop,available,23.99,23.99,high,low,10,namesilo,,,28/09/2026 02:16
 10bb50ed-f32f-4f47-bc98-1424b5adcb12,accessary.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,
+ca3a66d2-1251-4685-83a9-657dd0dcc32c,tuning.hiphop,available,21.62,21.62,high,low,6,dynadot,,,29/09/2026 08:16
 8dc11e3b-be08-4fe4-9254-4bb748503aba,balsam.hiphop,available,23.99,23.99,high,low,6,namesilo,,,22/09/2026 00:04
 ad5da814-e11d-4131-baf3-a8c25567085c,argun.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,20/09/2026 04:51
 fff89628-3ab5-4236-b5c4-3d717b1433e5,greenwing.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,19/09/2026 02:56
@@ -430,33 +476,39 @@ e8979a9a-bf61-4c13-a684-8d43862d9206,crisply.hiphop,available,23.99,23.99,medium
 5ccffbee-f54f-4f4d-ae3c-72d0d5334d6c,publicly.hiphop,available,21.11,21.11,medium,low,8,porkbun,,,28/09/2026 15:37
 046310a1-1583-4aa8-a99f-2af8bec859f5,mistakes.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,16/09/2026 10:20
 093b4a4d-f894-4aad-9d08-8504cd687283,conducive.hiphop,available,25.98,33.98,high,low,9,namecheap,,,12/08/2026 20:30
-fea0256f-852e-4962-8fa6-b378c659677b,antler.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,19/09/2026 15:20
+fea0256f-852e-4962-8fa6-b378c659677b,antler.hiphop,available,23.99,23.99,high,low,6,namesilo,,,19/09/2026 15:20
+bb3bda14-7b59-4d6a-a6a2-029def339cc2,decree.hiphop,available,27,,high,low,6,unstoppable,,,29/09/2026 18:35
 47d30709-265a-4345-9b13-43ed8c375826,ava.hiphop,premium,640,116,high,medium,3,namesilo,,,
 86f5ec37-41b0-4ddd-a175-0775293f5a2c,fishes.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,17/09/2026 06:49
 ce86b4b8-9a9a-4334-8eb7-bd6def8139b1,wore.hiphop,available,23.99,23.99,medium,low,4,namesilo,,,
 f5e87595-dc7c-468f-8365-c045875a6729,tenured.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,11/09/2026 11:43
 28256db4-edf1-47a3-ae2b-a3531d6e5787,sevenup.hiphop,available,23.99,23.99,high,low,8,namesilo,,,
+de3529b7-dcf9-46fb-9e79-86052c8bb58b,laurens.hiphop,available,23.99,23.99,high,low,7,namesilo,,,29/09/2026 07:10
 82528680-1d2d-48a2-8db3-8d50f5d13d5c,madonna.hiphop,available,25.98,33.98,high,low,7,namecheap,,,24/09/2026 06:06
 92481236-e329-4b17-b6a3-744941a8cb90,possessions.hiphop,available,20.9,20.9,low,low,11,spaceship,,,28/09/2026 17:10
 b225c511-da58-485c-880a-cbc0819dbe32,additive.hiphop,available,23.99,23.99,high,low,8,namesilo,,,
 b775cd06-636f-4afc-901d-a2c14f6c791d,moneyless.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,25/08/2026 04:43
 b6223792-9c98-4ad8-9bf0-f9e1b7660cae,pellucid.hiphop,available,23.99,23.99,high,low,8,namesilo,,,13/08/2026 09:44
 b93ae4d3-a349-438b-a1e7-e162ee73872a,combinations.hiphop,available,23.99,23.99,medium,low,12,namesilo,,,17/09/2026 17:12
+cb6c376b-b5aa-4b05-a365-8ae659bc148b,furman.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,29/09/2026 04:35
 92bf4b8d-6a16-478c-a105-ea16c6a987af,arafat.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,19/09/2026 23:42
 4cbab43a-99d7-4321-8617-d52dff457822,bilges.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,23/09/2026 15:54
 14c529c2-485b-4a01-8b4d-9a110d79b603,humanities.hiphop,available,23.99,23.99,high,low,10,namesilo,,,28/09/2026 22:20
 a35bf6b3-7e66-4622-8130-e6a78b575439,intriguing.hiphop,available,23.99,23.99,high,low,10,namesilo,,,25/09/2026 10:52
-8263a1f6-c1d8-466a-b23f-556e14f35e38,poverty.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,
-31c05681-963f-444f-b0d2-e77a0b1f186d,patiently.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,15/09/2026 19:20
+8263a1f6-c1d8-466a-b23f-556e14f35e38,poverty.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,29/09/2026 23:35
+af536e81-07da-43ad-9b82-f485413ffaff,jana.hiphop,available,21.62,21.62,high,low,4,dynadot,,,29/09/2026 15:30
+31c05681-963f-444f-b0d2-e77a0b1f186d,patiently.hiphop,available,25.98,33.98,high,low,9,namecheap,,,15/09/2026 19:20
 ac4ecbd8-85ec-4653-9d91-7f8a40a5754d,berry.hiphop,available,23.99,23.99,high,low,5,namesilo,,,23/09/2026 10:10
 01ff446c-0e5f-4970-a72e-8e4c5e897708,badly.hiphop,available,34.99,41.99,medium,low,5,name.com,,,22/09/2026 16:07
 ee537c7a-cd11-4f1b-8ada-cf6bbb44d17f,faker.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,09/09/2026 05:01
 3f134f1a-3121-456c-b102-6b577bab3130,tapestry.hiphop,available,23.99,23.99,high,low,8,namesilo,,,20/09/2026 08:48
 14d63939-3863-4642-ae0e-3befa0aed894,michigan.hiphop,available,25.98,33.98,high,low,8,namecheap,,,28/09/2026 05:53
 f2a8b258-17bd-46f7-a96f-1be931a60a68,newest.hiphop,available,23.99,23.99,high,low,6,namesilo,,,18/09/2026 15:57
+3afd9885-7cf2-42ee-9632-cdc5468b221f,resent.hiphop,available,25.98,33.98,high,low,6,namecheap,,,29/09/2026 20:46
 09681ae4-e697-4e02-a51d-e1c536639de4,edna.hiphop,available,23.99,23.99,high,low,4,namesilo,,,27/09/2026 01:34
 549d2d2d-c6b9-4118-93e8-565d9a5ff26a,adornment.hiphop,available,23.99,23.99,high,low,9,namesilo,,,17/09/2026 09:46
 daab4fe3-edf2-4e80-9581-a774508bb382,enlivened.hiphop,available,23.99,23.99,high,low,9,namesilo,,,17/08/2026 09:37
+05cb234c-b91c-40f4-a21f-46f211aeab94,instability.hiphop,available,20.9,20.9,medium,low,11,spaceship,,,29/09/2026 23:37
 e13ac3da-ac64-4f35-b182-fe0a84a3643a,opaque.hiphop,available,23.99,23.99,high,low,6,namesilo,,,04/09/2026 15:47
 7ab0444d-e726-412d-a576-0f505c0ade11,zhou.hiphop,available,23.99,23.99,high,low,4,namesilo,,,25/09/2026 22:14
 b7768ca5-b941-4ed1-8b14-d2c3e5f97546,sleepless.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,22/08/2026 07:24
@@ -467,15 +519,14 @@ c3f790e5-5f17-43ad-a7e2-c479f195256c,ahab.hiphop,available,25.98,33.98,medium,lo
 6cef5930-52c7-4663-bff0-11dadc7c92da,peopled.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,08/09/2026 15:32
 9e61b0fc-b77b-408e-9bf1-199bace63964,armpit.hiphop,available,25.98,33.98,high,low,6,namecheap,,,20/09/2026 07:34
 3623e7f8-bff7-49f1-b1a0-6cf226c7c194,collar.hiphop,available,23.99,23.99,high,low,6,namesilo,,,20/09/2026 09:02
-27523eb0-4b2f-4465-9092-f87fbe8ab27f,fantasm.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,08/09/2026 18:39
+27523eb0-4b2f-4465-9092-f87fbe8ab27f,fantasm.hiphop,available,23.99,23.99,high,low,7,namesilo,,,08/09/2026 18:39
 cc886b21-f163-4cb3-9ade-a4082ce774ff,cannes.hiphop,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 12:04
 2b3ee073-fb8d-44cf-8b0d-6efe8eede15c,lag.hiphop,premium,640,116,high,low,3,namesilo,,,25/09/2026 10:16
 ee12e53c-67d4-4fed-8271-e8e0756ab2b1,retarded.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,27/09/2026 13:11
-a9fc2583-a869-4ae9-8a30-144a0324e43b,alembic.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,18/09/2026 05:10
-76dee800-a80b-481b-9ede-17699d097a89,limit.hiphop,available,,,high,low,5,,,,
+a9fc2583-a869-4ae9-8a30-144a0324e43b,alembic.hiphop,available,23.99,23.99,high,low,7,namesilo,,,18/09/2026 05:10
 946b7b57-ccb8-414b-9467-6759de7f016a,chung.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,28/09/2026 16:45
-fd65e424-9c79-44f7-93e5-5841d5dbe2e6,qin.hiphop,premium,640,116,medium,low,3,namesilo,,,28/09/2026 13:41
-4652c659-8f5c-4595-bdf3-9eebe4d00ec5,ovate.hiphop,available,25.98,33.98,medium,low,5,namecheap,,,15/08/2026 18:03
+fd65e424-9c79-44f7-93e5-5841d5dbe2e6,qin.hiphop,premium,640,116,high,low,3,namesilo,,,28/09/2026 13:41
+4652c659-8f5c-4595-bdf3-9eebe4d00ec5,ovate.hiphop,available,25.98,33.98,high,low,5,namecheap,,,15/08/2026 18:03
 af723782-4e11-4506-bd09-7a3720e35d3a,bilby.hiphop,available,25.98,33.98,medium,low,5,namecheap,,,23/09/2026 15:40
 b6d2b5fa-b916-45df-a164-f862a012d01e,owned.hiphop,available,25.98,33.98,high,low,5,namecheap,,,26/09/2026 03:41
 35294adc-1210-4fbb-bbdb-a4451a12762a,xxxiv.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,
@@ -486,54 +537,59 @@ f9b67e89-5a26-4a14-8dab-39a9604678db,waken.hiphop,available,23.99,23.99,high,low
 f55fe73f-1cb4-47b6-a340-639f826167e9,represented.hiphop,available,23.99,23.99,high,low,11,namesilo,,,
 ee14e48c-3682-4fa3-a100-4cfd7ff34f9e,batteries.hiphop,available,20.9,20.9,medium,low,9,spaceship,,,27/09/2026 23:45
 cc2df8f2-acf9-41d1-8ccb-90501735d825,robertson.hiphop,available,23.99,23.99,high,low,9,namesilo,,,25/09/2026 09:45
-077537d0-145f-4f56-9a27-fbd7f3374f46,detour.hiphop,available,23.99,23.99,high,low,6,namesilo,,,
+077537d0-145f-4f56-9a27-fbd7f3374f46,detour.hiphop,available,25.98,33.98,high,low,6,namecheap,,,29/09/2026 14:19
 f837e7d2-7d3e-41aa-aec3-98ee56a69eee,eyestrain.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,20/09/2026 17:21
 8ab31eca-3dcd-4471-b917-ccebbcbd5f9f,linden.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,22/09/2026 12:37
 7969a5bf-1638-4cb8-9204-23df55857526,sensation.hiphop,available,23.99,23.99,high,low,9,namesilo,,,21/09/2026 17:34
+982ad89d-e6f4-4e72-9ec5-53052b0c96a5,cheerleader.hiphop,available,20.9,20.9,high,low,11,spaceship,,,29/09/2026 21:07
 9c50e941-db92-438e-bd72-e630c083924b,apt.hiphop,premium,650,130,high,low,3,namecheap,,,22/09/2026 07:23
 0df9f0cd-c3c4-48d8-92f8-9d557d17fc17,venous.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,13/09/2026 02:10
+d23c16fe-e752-4006-9b55-c938b1fa342a,eis.hiphop,premium,500.2,,high,low,3,unstoppable,,,29/09/2026 16:22
 a689cc3e-d741-4236-82f9-e7b7738f6d99,brainstorm.hiphop,available,23.99,23.99,high,low,10,namesilo,,,24/09/2026 08:05
 61f98c32-e5e9-4cff-9790-c60a6d33723b,lavish.hiphop,available,25.98,33.98,high,low,6,namecheap,,,22/08/2026 21:07
 9b4959d4-f4db-4ae0-a357-7c6efa4c1cb2,baroness.hiphop,available,23.99,23.99,high,low,8,namesilo,,,22/09/2026 07:21
 d5498563-7f50-4d74-af8d-a29b8f9b099a,envelope.hiphop,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 22:36
+3e40730e-1119-4dca-a0b2-348699dd0058,aspirations.hiphop,available,23.99,23.99,low,low,11,namesilo,,,29/09/2026 23:55
 0158ebcc-bddc-4c76-8819-ef78f930dba1,dissonant.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,07/08/2026 12:26
-3bfaa7f5-ea64-4846-85dc-5e6d5c4cf4f7,pukka.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,09/09/2026 05:24
+3bfaa7f5-ea64-4846-85dc-5e6d5c4cf4f7,pukka.hiphop,available,23.99,23.99,high,low,5,namesilo,,,09/09/2026 05:24
 2064449d-7bb1-4c5d-bc93-a499714e45d2,ottawa.hiphop,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 11:58
 830a8b09-b2ef-478d-bd94-d2a453e7c153,thundery.hiphop,available,34.99,41.99,medium,low,8,name.com,,,13/08/2026 19:58
 b7769a90-fdf4-48d2-9a38-e8e65e240152,graspable.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,06/08/2026 08:18
 d464bcc1-4b43-4cc0-b52f-a837f862f883,chthonian.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,12/08/2026 07:26
 0dba6452-b5ed-4182-af39-e663dfdbe31d,apologise.hiphop,available,23.99,23.99,high,low,9,namesilo,,,
 c0786606-8873-4366-b3e1-1632ccf8ef36,debar.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,22/09/2026 03:43
-360b7621-7a2f-4814-b7bf-db88a815cfe5,pale.hiphop,available,23.99,23.99,medium,low,4,namesilo,,,27/09/2026 02:35
+360b7621-7a2f-4814-b7bf-db88a815cfe5,pale.hiphop,available,23.99,23.99,high,low,4,namesilo,,,27/09/2026 02:35
 9ddd5fd9-8fae-40c6-8597-ed7ccfddb0f3,innermost.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,22/08/2026 05:53
 a10d9ed0-b1ca-4158-88a9-e977e32ef02e,keynesian.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,22/08/2026 15:46
 06fa2507-77bd-4f2d-b7e9-d88f623e9668,terrain.hiphop,available,21.11,21.11,high,low,7,porkbun,,,28/09/2026 20:36
-71450cea-acc1-4a7a-b82a-cbc2c7f30208,agama.hiphop,available,34.99,41.99,medium,low,5,name.com,,,17/09/2026 16:05
+71450cea-acc1-4a7a-b82a-cbc2c7f30208,agama.hiphop,available,34.99,41.99,high,low,5,name.com,,,17/09/2026 16:05
 4c8a0eb2-dbd5-45cd-8119-3c3efd46294a,immunity.hiphop,available,23.99,23.99,high,low,8,namesilo,,,28/09/2026 14:20
 e08b225b-3422-4623-a226-926c1af3e635,downmarket.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,14/08/2026 17:48
-2344815f-f752-4d7c-af27-0136a85bbc35,credit.hiphop,available,23.99,23.99,high,low,6,namesilo,,,
+2344815f-f752-4d7c-af27-0136a85bbc35,credit.hiphop,available,20.9,20.9,high,low,6,spaceship,,,29/09/2026 09:26
 6fee552e-0432-4049-b75a-97910d0c7e8e,marble.hiphop,available,33.98,,high,low,6,namecheap,,,
 7bc37c43-bc4c-41dd-86c0-d59fdcafbe59,cosmologic.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,13/08/2026 02:56
 f365f818-f598-4c60-833d-0e54326229fe,grandmothers.hiphop,available,25.98,33.98,medium,low,12,namecheap,,,20/09/2026 18:06
 50c1751e-3cbe-4d2a-8b3d-aeb27c51092d,tracey.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,28/09/2026 21:51
-7aa7885b-3be0-43ba-961d-d200548cd38b,swain.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,22/09/2026 21:56
+7aa7885b-3be0-43ba-961d-d200548cd38b,swain.hiphop,available,23.99,23.99,high,low,5,namesilo,,,22/09/2026 21:56
+00ca97ab-62d7-4c34-900a-5b512dc90e2e,monterey.hiphop,available,23.99,23.99,high,low,8,namesilo,,,30/09/2026 02:19
 b26932a6-f83d-4c3c-8755-5878b1fe8324,anaphor.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,19/09/2026 02:12
 39fbeee5-2826-4b59-8f37-81077c5634dd,tenormin.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,20/09/2026 20:11
 91e7a3b4-b766-4534-a816-ddfb7538c388,protean.hiphop,available,23.99,23.99,high,low,7,namesilo,,,09/09/2026 04:06
 f24b5910-72f2-474f-af4d-730ebc9f977d,cognisance.hiphop,available,23.99,23.99,high,low,10,namesilo,,,21/09/2026 09:57
-ca7713b3-0dca-41f2-b2dc-51757cb24419,shutting.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,12/08/2026 12:22
+ca7713b3-0dca-41f2-b2dc-51757cb24419,shutting.hiphop,available,23.99,23.99,high,low,8,namesilo,,,12/08/2026 12:22
 500a9721-df73-4cc8-8241-cfddd59fdd26,thready.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,18/08/2026 04:08
 3bc5a2e5-fc24-4c6a-bea0-29799ed07d09,wool.hiphop,available,23.99,23.99,high,low,4,namesilo,,,28/09/2026 10:46
 2cc9fd19-b3a8-4c4a-8ab1-411c67b63f5d,sloane.hiphop,available,23.99,23.99,high,low,6,namesilo,,,28/09/2026 16:12
 25d7dbeb-4082-4b8f-b9c6-31fd9522caa7,gar.hiphop,premium,640,116,medium,low,3,namesilo,,,23/09/2026 16:11
 78054d1c-d442-48ca-a260-88ff744b3e9b,tissue.hiphop,available,23.99,23.99,high,low,6,namesilo,,,27/09/2026 05:43
 3f5889f3-cada-484e-a045-d0f3846d8f2d,asheville.hiphop,available,23.99,23.99,high,low,9,namesilo,,,20/09/2026 13:49
-3984ce9c-00a3-42ed-9aa1-130018fc7a9d,cockpit.hiphop,available,23.99,23.99,high,low,7,namesilo,,,
+3984ce9c-00a3-42ed-9aa1-130018fc7a9d,cockpit.hiphop,available,27,23.99,high,low,7,unstoppable,,,29/09/2026 10:12
 18b0e9a2-78f4-4462-bcde-7ea41360f850,waybill.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,23/09/2026 16:05
 28654325-4ae1-4817-9513-a8a10373532c,cadmium.hiphop,available,23.99,23.99,high,low,7,namesilo,,,11/08/2026 22:59
 056d8e0f-7252-454f-8139-617ba5477028,adiabatic.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,
 e4422f43-49cd-455c-97ba-33872cfb2559,steelyard.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,22/09/2026 19:57
-d3f1fc1d-950c-4a02-bab3-5a58e4db50bb,lau.hiphop,premium,546.35,109.69,medium,low,3,porkbun,,,28/09/2026 07:25
+d3f1fc1d-950c-4a02-bab3-5a58e4db50bb,lau.hiphop,premium,546.35,109.69,high,low,3,porkbun,,,28/09/2026 07:25
+1f2a64b7-8ea5-4dcf-84bb-d8714abcb229,watts.hiphop,available,21.62,21.62,high,medium,5,dynadot,,,29/09/2026 19:22
 2be12ea1-6b5a-4f28-8c36-771916d79d64,boone.hiphop,available,34.99,41.99,high,low,5,name.com,,,25/09/2026 01:56
 4ace79fb-96ca-4d9f-9c92-61600b4410b4,ammonite.hiphop,available,23.99,23.99,high,low,8,namesilo,,,18/09/2026 22:08
 16e296d8-6ef1-4c30-baab-6ce67ae2a9c5,priscilla.hiphop,available,21.62,21.62,high,low,9,dynadot,,,28/09/2026 03:51
@@ -576,12 +632,14 @@ f4a9b66a-e1cc-4e8d-9ea6-79ae5a57d1bd,beltway.hiphop,available,23.99,23.99,high,l
 496bae76-cb06-49b9-a9c1-1e2877024419,bastille.hiphop,available,23.99,23.99,high,low,8,namesilo,,,22/09/2026 12:48
 1b670665-66ad-48e8-9ddb-57be4b8fe08c,offence.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,04/09/2026 01:34
 dd283599-e24b-4afa-85e0-733020f93bec,pedal.hiphop,available,23.99,23.99,high,low,5,namesilo,,,08/09/2026 12:17
+21a9a503-908c-46e4-8077-ceb04f45c8da,luciano.hiphop,available,21.11,21.11,medium,low,7,porkbun,,,29/09/2026 05:56
 57d4c51f-c4b2-4359-989a-1381595173c0,times.hiphop,available,,,high,low,5,,,,
 a81a9b47-3113-46b7-bf4b-44f58436175f,finback.hiphop,available,34.99,41.99,medium,low,7,name.com,,,21/09/2026 20:44
 81c73ec7-41ca-42ce-95ea-bc7aeca2add0,include.hiphop,available,23.99,23.99,high,low,7,namesilo,,,
 072e120d-4c78-4d11-ab04-93922c4b5e6d,proverbs.hiphop,available,25.98,33.98,high,low,8,namecheap,,,24/09/2026 07:04
 4ebab253-7b1f-49aa-b537-7f4efe503d08,nidifugous.hiphop,available,23.99,23.99,low,low,10,namesilo,,,03/09/2026 17:08
 9c5a4aa0-79d9-44e2-ba15-d26ba9eaf908,graded.hiphop,available,25.98,33.98,high,low,6,namecheap,,,20/08/2026 17:36
+9192178e-b68a-43ac-8bbc-dfee77e0db39,bute.hiphop,available,23.99,23.99,medium,low,4,namesilo,,,29/09/2026 22:36
 0cfe86e8-08dc-4f80-8e91-164fa3a3e4b2,apiarian.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,05/08/2026 23:53
 69dfeed2-cc2e-40af-9374-35482a974757,holocene.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,09/09/2026 11:21
 6de1a9e8-de9f-454d-9d33-bbfbf96e0916,acquittal.hiphop,available,23.99,23.99,high,low,9,namesilo,,,17/09/2026 02:42
@@ -593,16 +651,16 @@ caaa0f62-9958-455f-ba8b-855f8739a950,stealthily.hiphop,available,23.99,23.99,med
 ee9a301a-c639-4459-b4ac-16224eb8ea1c,respecting.hiphop,available,33.98,,medium,low,10,namecheap,,,
 732223ae-5863-460a-bf73-111c233bbe62,stays.hiphop,available,25.98,33.98,high,low,5,namecheap,,,24/09/2026 18:24
 c938af1d-cdd4-461e-beb4-f56d04d8dbd5,acne.hiphop,available,20.9,20.9,medium,low,4,spaceship,,,28/09/2026 17:51
-96b72777-33ba-486e-af97-212f58094b36,creatures.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,27/09/2026 03:06
+96b72777-33ba-486e-af97-212f58094b36,creatures.hiphop,available,25.98,33.98,high,low,9,namecheap,,,27/09/2026 03:06
 8bb55d47-b5f9-4ddc-ad45-23db49ff36cf,mba.hiphop,premium,640,116,high,low,3,namesilo,,,25/09/2026 09:16
-50a1b5c0-212d-4c69-8704-e66deb2b7eac,santiago.hiphop,available,27,,medium,low,8,unstoppable,,,28/09/2026 13:37
+50a1b5c0-212d-4c69-8704-e66deb2b7eac,santiago.hiphop,available,27,,high,low,8,unstoppable,,,28/09/2026 13:37
 da796bb7-ef70-4b89-8a25-c9a2a2a91f43,pilary.hiphop,available,25.98,33.98,high,medium,6,namecheap,,,08/09/2026 19:40
 d3b7c861-50e4-45bb-a9f0-8bc707c1234d,archeology.hiphop,available,34.99,41.99,medium,low,10,name.com,,,20/09/2026 01:43
 d2cc6634-8a06-48e4-a246-4618fc6953fd,glycogen.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,19/09/2026 08:46
 aa664f1d-e7fa-4b1f-856d-3da70fed9709,protein.hiphop,available,23.99,23.99,high,low,7,namesilo,,,08/09/2026 08:51
 2e274264-5c10-46d7-ade7-f5903d57cef8,bursal.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,11/08/2026 11:04
 b63bc44b-f78c-4d8f-8ef0-6a7d97c8bd2a,focal.hiphop,available,23.99,23.99,high,low,5,namesilo,,,18/08/2026 09:44
-76a93c40-5028-45d0-a184-aa9863d34937,gene.hiphop,available,23.99,23.99,high,low,4,namesilo,,,
+76a93c40-5028-45d0-a184-aa9863d34937,gene.hiphop,available,23.99,23.99,high,low,4,namesilo,,,29/09/2026 09:24
 d1e95922-498b-4371-bed8-6640db0b4d7c,tubby.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,08/09/2026 22:29
 b1abb4ed-74b9-468b-801c-00d11d292a4d,pointed.hiphop,available,23.99,23.99,high,low,7,namesilo,,,08/09/2026 22:36
 ce31a347-e19e-4e0e-9709-6ef21839acee,monoclonal.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,19/09/2026 05:27
@@ -610,29 +668,34 @@ ce31a347-e19e-4e0e-9709-6ef21839acee,monoclonal.hiphop,available,23.99,23.99,med
 2cf81356-2acd-4bdc-a9d2-3daa6eda36a2,monistic.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,25/08/2026 04:51
 5716e9e7-c23b-441f-be19-eadc732b6617,precative.hiphop,available,23.99,23.99,high,medium,9,namesilo,,,09/09/2026 01:12
 a1cce228-e942-4700-b404-8497361e9808,heliacal.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,21/08/2026 06:23
-91c35f36-3701-40a0-a26f-8d08fbb9eeb7,distinguish.hiphop,available,27,,medium,low,11,unstoppable,,,28/09/2026 21:05
+91c35f36-3701-40a0-a26f-8d08fbb9eeb7,distinguish.hiphop,available,27,,high,low,11,unstoppable,,,28/09/2026 21:05
 2e703e48-23c7-4ff1-9d2d-3481c196b0cf,accentual.hiphop,available,23.99,23.99,high,low,9,namesilo,,,
 47e49a34-b5f9-47d0-9dce-deb23b98b580,indirectly.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,15/09/2026 07:58
 cad10c2c-bc90-4763-bba8-3d00a2800aeb,resole.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,10/09/2026 13:33
 7c6d51e8-272e-4ac7-8466-6f114bc64547,mawr.hiphop,available,21.11,21.11,medium,low,4,porkbun,,,28/09/2026 21:42
 29398cd3-5663-49ab-bb2c-ebc3bdcdc6b0,dresses.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,18/09/2026 07:11
 0e1fca4e-95b6-4ad8-bbab-62450c86acdc,biddable.hiphop,available,23.99,23.99,high,low,8,namesilo,,,
-47508dee-f673-4642-b1ae-31fce4d44a1b,fiend.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,17/08/2026 21:54
+47508dee-f673-4642-b1ae-31fce4d44a1b,fiend.hiphop,available,23.99,23.99,high,low,5,namesilo,,,17/08/2026 21:54
 b0c8ffbb-5020-4bda-bf3d-4b7fac4ab390,xii.hiphop,premium,640,116,high,low,3,namesilo,,,21/09/2026 11:25
 5ddc23f1-cf70-4a5a-b7cb-442e3052a909,stokes.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,28/09/2026 22:21
 41c08758-611a-4686-9c99-7404783bd63b,page.hiphop,available,23.99,23.99,high,low,4,namesilo,,,
-6ae583f8-a6dc-4c33-9b67-59d3dcc91308,akkadian.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,18/09/2026 00:10
-f44d12ce-73b9-4c02-8b76-bfcddd092dc4,adverse.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,
+6ae583f8-a6dc-4c33-9b67-59d3dcc91308,akkadian.hiphop,available,23.99,23.99,high,low,8,namesilo,,,18/09/2026 00:10
+f44d12ce-73b9-4c02-8b76-bfcddd092dc4,adverse.hiphop,available,23.99,23.99,high,low,7,namesilo,,,
 a0790450-f2ea-42cb-8eeb-d595838fe463,acceptance.hiphop,available,25.98,33.98,high,low,10,namecheap,,,16/09/2026 22:01
 f77c2d0d-3f8c-490d-8f29-97b2c661d5c6,skinny.hiphop,available,23.99,23.99,high,low,6,namesilo,,,12/08/2026 04:01
 4d0e3625-7fa4-4e0e-905d-23d4901293a2,historied.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,21/08/2026 09:53
+677a08f1-4988-4755-bce3-3166345b0ffd,guardians.hiphop,available,20.9,20.9,medium,low,9,spaceship,,,30/09/2026 00:06
 158b749a-4dce-43d9-9b1b-57c93e6e2b84,hanoverian.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,20/08/2026 23:44
 b9e9a7bf-d348-4c8c-8f6f-d46af534fa8c,blanquillo.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,24/09/2026 04:04
 85384f1e-0368-4051-970f-e1e21d9c19d3,colombian.hiphop,available,23.99,23.99,high,low,9,namesilo,,,12/08/2026 17:18
 5d18d5f2-ba42-4138-b148-bb24e95ce593,haskell.hiphop,available,20.9,20.9,high,low,7,spaceship,,,28/09/2026 03:46
 0258f3d7-88f9-49c0-ac7d-21893083144a,oft.hiphop,premium,650,130,high,low,3,namecheap,,,14/09/2026 20:06
+3c1c6f22-e500-47f3-bf44-a54c07ce0821,descended.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,29/09/2026 10:16
+b6f4507d-7ccd-417a-8807-ef0cf6389596,tipperary.hiphop,available,21.11,21.11,high,low,9,porkbun,,,29/09/2026 09:36
+723d60cd-f8b1-46de-b420-5cda43efc745,mci.hiphop,premium,640,116,high,low,3,namesilo,,,29/09/2026 15:50
 f05101b8-1e73-48ac-85c7-e9b0b656e91d,midwestern.hiphop,available,23.99,23.99,high,low,10,namesilo,,,24/08/2026 22:41
 d56c1a0d-facf-4e67-ae25-7244779fbae5,authorizer.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,21/09/2026 05:13
+bada0a06-d260-4a36-ba26-65a44da44cdc,mushrooms.hiphop,available,23.99,23.99,high,low,9,namesilo,,,29/09/2026 11:10
 a1b93a4f-be0d-4771-8a13-6a46a2dc1968,acceptably.hiphop,available,23.99,23.99,high,medium,10,namesilo,,,10/09/2026 12:55
 159936a4-f0ed-43fd-bfa1-fa19845172f6,creation.hiphop,available,27,23.99,high,low,8,unstoppable,,,28/09/2026 03:53
 d1264c33-566f-4bcc-88f4-2496a85f0bbb,spat.hiphop,available,25.98,33.98,high,low,4,namecheap,,,23/09/2026 13:13
@@ -653,7 +716,7 @@ ba643e69-0f07-47b7-a187-7f88d6743d00,beagle.hiphop,available,25.98,33.98,high,lo
 6a81f792-15bb-4724-8280-41a7bd547112,ungoverned.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,12/09/2026 04:36
 e5806128-4e64-4045-99ff-ca5f796c0c10,clemency.hiphop,available,23.99,23.99,high,low,8,namesilo,,,24/09/2026 15:31
 dd846e57-90c1-48b5-a36a-9688940a2866,unsubtle.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,12/09/2026 20:46
-ae6d78b2-23b6-43a8-87f3-07f006bb9da8,owens.hiphop,available,23.99,23.99,high,low,5,namesilo,,,
+ae6d78b2-23b6-43a8-87f3-07f006bb9da8,owens.hiphop,available,21.62,21.62,high,low,5,dynadot,,,30/09/2026 00:31
 52148454-d099-44b4-88c8-b9e7bd3e2ad5,declined.hiphop,available,21.62,21.62,low,low,8,dynadot,,,28/09/2026 22:47
 cc90dea5-6b68-44c3-8942-436d7569c0a8,reactor.hiphop,available,23.99,23.99,high,low,7,namesilo,,,28/09/2026 10:36
 bfbec8e5-1153-4a4c-8782-38843b2fdcab,hypothesis.hiphop,available,20.9,20.9,high,low,10,spaceship,,,29/09/2026 02:33
@@ -671,46 +734,46 @@ ca87aa24-a118-4659-9e67-b1356b5073b6,lifeless.hiphop,available,23.99,23.99,mediu
 85f84c3f-4bb2-45e7-8ef9-3eea160d878b,geriatric.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,18/08/2026 22:42
 fb1ccd6c-d7c8-4a8a-816b-33dcdbf3a3d2,chemistry.hiphop,available,27,33.98,high,low,9,unstoppable,,,28/09/2026 12:10
 c7870dfb-7300-406b-afa3-7804670ddfec,smetana.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,22/09/2026 23:32
-ee6ec0ae-c79d-43a7-a87f-bb54ac80d07c,bordered.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,22/09/2026 23:55
+ee6ec0ae-c79d-43a7-a87f-bb54ac80d07c,bordered.hiphop,available,23.99,23.99,high,low,8,namesilo,,,22/09/2026 23:55
 fa7ea268-1c6c-4618-98be-53724d93145e,injury.hiphop,available,23.99,23.99,high,low,6,namesilo,,,25/09/2026 06:58
 1e1d1acc-7122-47b4-b24b-b4ee606e46fb,derisory.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,14/08/2026 02:56
 572d5728-4790-4d5e-ac88-db268722794d,effectual.hiphop,available,23.99,23.99,high,low,9,namesilo,,,15/08/2026 14:20
+e9565124-cb15-4cee-ba0f-8456c1765f35,spying.hiphop,available,25.98,33.98,high,low,6,namecheap,,,29/09/2026 06:49
 30b82b86-29e3-4dc4-9c76-487f9ba3b85b,malcolm.hiphop,available,23.99,23.99,high,low,7,namesilo,,,25/09/2026 14:54
-4a703057-df76-4948-aab7-69ac38a69742,clam.hiphop,available,23.99,23.99,high,low,4,namesilo,,,
+4a703057-df76-4948-aab7-69ac38a69742,clam.hiphop,available,20.9,20.9,high,low,4,spaceship,,,29/09/2026 09:46
 0554bf32-d033-4bc8-8bf6-45b8761e3e03,cattleman.hiphop,available,23.99,23.99,high,low,9,namesilo,,,23/09/2026 00:40
 727ac3f6-70c7-4cf3-ad1e-736f348abcdc,degrading.hiphop,available,34.99,41.99,medium,low,9,name.com,,,13/08/2026 20:10
 b377aee2-4a1d-4d21-ad0d-b9e170519e73,trilateral.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,11/09/2026 14:28
 c535b25a-9623-4e1b-9804-35f29a27e149,predestine.hiphop,available,23.99,23.99,high,medium,10,namesilo,,,09/09/2026 01:23
 a6e9b587-9dcc-4674-993f-f44f4a30c8f9,numberless.hiphop,available,23.99,23.99,high,low,10,namesilo,,,13/08/2026 03:42
-0fddc97c-3c57-4aff-9493-e71fad2e1efb,plausibly.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,14/09/2026 09:28
+0fddc97c-3c57-4aff-9493-e71fad2e1efb,plausibly.hiphop,available,23.99,23.99,high,low,9,namesilo,,,14/09/2026 09:28
 afd13ef1-8c21-4766-b338-da313defbd25,narrowed.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,03/09/2026 13:27
-48193663-3397-4b5e-806d-a21d0e31e96e,monterrey.hiphop,available,20.9,20.9,medium,low,9,spaceship,,,28/09/2026 14:54
+48193663-3397-4b5e-806d-a21d0e31e96e,monterrey.hiphop,available,20.9,20.9,high,low,9,spaceship,,,28/09/2026 14:54
 f8cf890f-52d9-47ff-9122-15f9f6e5f921,motel.hiphop,available,23.99,23.99,high,low,5,namesilo,,,25/09/2026 09:27
 1388898c-4b29-484b-95e9-4b63a9fa8d3c,zirconium.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,20/09/2026 23:04
 025b84f6-d149-4dfe-928d-7728a4b5bf3b,simpleness.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,24/09/2026 13:51
-ba979593-ff21-4f61-bfcc-d760f015b201,scale.hiphop,available,23.99,23.99,high,medium,5,namesilo,,,
+ba979593-ff21-4f61-bfcc-d760f015b201,scale.hiphop,available,21.62,21.62,high,medium,5,dynadot,,,29/09/2026 21:07
 4f094536-15ca-4491-9bb7-7f8c86e78945,entangle.hiphop,available,23.99,23.99,high,low,8,namesilo,,,24/08/2026 16:54
 e9253a21-be94-4d78-8763-21bae42112d6,sudbury.hiphop,available,20.9,20.9,medium,low,7,spaceship,,,28/09/2026 06:48
 c101e581-2a7c-4b8a-bdd1-a854373ea00c,poisoned.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,27/09/2026 17:38
 c70a5c35-83b8-418c-9eb0-59ccbd99c321,cruciform.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,13/08/2026 08:42
 0c30aa9a-825f-4de8-aed4-89f7481003ef,operator.hiphop,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 23:32
-e61c32bd-c237-49ca-ac17-e2c61af0e4fe,employment.hiphop,available,,,high,low,10,,,,
 c333c454-e220-4289-8ebd-f3beafe5c4ca,nocturnal.hiphop,available,25.98,33.98,high,low,9,namecheap,,,03/09/2026 18:04
 2e395b39-f32a-4d6a-9a45-5c9384e4f295,grew.hiphop,available,23.99,23.99,high,low,4,namesilo,,,
-24f3b60f-bc86-4cd1-ae25-cfad6d01f2ed,spirit.hiphop,available,,,high,low,6,,,,
 6c152012-abb6-44e8-9f60-077bced64f5d,girdle.hiphop,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 15:02
-4f8f222c-5bc5-4718-bf00-ec6f49483729,untangled.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,12/09/2026 20:57
+4f8f222c-5bc5-4718-bf00-ec6f49483729,untangled.hiphop,available,25.98,33.98,high,low,9,namecheap,,,12/09/2026 20:57
 68641ade-0741-40a3-a99a-cd0b4c042c8f,too.hiphop,premium,517.7,103.7,high,low,3,spaceship,,,28/09/2026 12:00
 2fa6989e-5f79-4e90-a787-f53699554d4d,accretive.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,
 7be923ce-63c8-4db5-ac35-aa48b517a134,holland.hiphop,available,43.99,43.99,high,low,7,godaddy,,,28/09/2026 02:07
 6f224e55-aeda-47af-9403-10abc7743ff1,unbeaten.hiphop,available,23.99,23.99,high,low,8,namesilo,,,12/09/2026 01:45
-196f0086-5958-4255-afc9-5b4ddf110abe,ground.hiphop,available,23.99,23.99,high,low,6,namesilo,,,22/09/2026 17:38
+196f0086-5958-4255-afc9-5b4ddf110abe,ground.hiphop,available,20.9,20.9,high,low,6,spaceship,,,29/09/2026 17:40
 94ec7ce9-9fc9-4f54-a845-4acb48217318,bros.hiphop,available,23.99,23.99,medium,low,4,namesilo,,,18/09/2026 13:28
 b0db166e-5824-4b62-808f-30d48eacb3d3,volcanic.hiphop,available,23.99,23.99,high,low,8,namesilo,,,13/09/2026 06:48
 d9a34080-45a4-4189-a18c-1ea73a1b759f,oozing.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,04/09/2026 15:28
 18b9404b-86a4-47a3-88c5-bdff964cc1e6,caramel.hiphop,available,25.98,33.98,high,low,7,namecheap,,,11/08/2026 18:28
 40406cc4-ad43-4fad-a291-41c57877c48c,beehive.hiphop,available,23.99,23.99,high,low,7,namesilo,,,23/09/2026 01:16
 e64ee5c0-0c9a-4efc-be08-00d40fe4015f,bittie.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,10/08/2026 07:56
+4f06bd10-8c3d-460e-8c3a-0ce55fd5b223,pushes.hiphop,available,20.9,20.9,low,low,6,spaceship,,,29/09/2026 06:04
 35d0c62d-53a4-4788-9e84-74f368c110ed,validation.hiphop,available,27,,high,low,10,unstoppable,,,28/09/2026 02:30
 0f0b4985-9160-4ee0-ad32-6cfa899dfafc,dimly.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,14/09/2026 12:45
 05e14afd-3e38-4b1a-b19b-b8d81a83c409,catfish.hiphop,available,25.98,33.98,high,low,7,namecheap,,,29/09/2026 00:23
@@ -719,23 +782,23 @@ ec07ba68-4a11-4f7e-96ff-d4bbbbf7fb22,bombay.hiphop,available,20.9,20.9,medium,lo
 cc76c152-bbe4-41f2-923e-3924880086d6,climber.hiphop,available,25.98,33.98,high,low,7,namecheap,,,24/09/2026 15:39
 e9ea046f-2f78-441c-ba3a-1177d3627d4a,stephens.hiphop,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 15:57
 6bb8ff5a-5a5a-4c60-bab3-901356772c0c,broadleaf.hiphop,available,23.99,23.99,high,low,9,namesilo,,,11/08/2026 04:57
+63cbab96-66f1-448a-99bb-a1a0a8226b0a,disciplined.hiphop,available,21.62,21.62,high,low,11,dynadot,,,29/09/2026 08:42
 cce0e0ed-261e-4d26-999c-967825719067,defensible.hiphop,available,23.99,23.99,high,low,10,namesilo,,,13/08/2026 23:11
 78381960-ac1a-4116-be3e-28c0f69c3813,copaiba.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,22/09/2026 00:08
 f8078fdc-0ca0-41a7-a429-067828ca91df,tandem.hiphop,available,23.99,23.99,high,low,6,namesilo,,,15/09/2026 06:56
-ab9b4ad1-17c8-4f52-98da-b56da4ae3ec9,easton.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,25/09/2026 16:33
+ab9b4ad1-17c8-4f52-98da-b56da4ae3ec9,easton.hiphop,available,23.99,23.99,high,low,6,namesilo,,,25/09/2026 16:33
 3a119380-a7be-43b7-a5d7-2105e7ae2d9c,baseline.hiphop,available,23.99,23.99,high,low,8,namesilo,,,22/09/2026 10:15
 eebf5beb-bead-4db2-abe1-efff222de4fb,integral.hiphop,available,23.99,23.99,high,low,8,namesilo,,,23/09/2026 10:33
 e02917c1-d6b5-4ac2-8664-b02de3abfed4,spreadsheet.hiphop,available,23.99,23.99,high,low,11,namesilo,,,
 cb5909dc-40ab-4ec6-8547-d8a7d9d93abc,smallish.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,10/09/2026 11:46
 4c69e38d-caef-4bec-ae8a-8fa041c21d18,herd.hiphop,available,23.99,23.99,high,low,4,namesilo,,,24/09/2026 19:45
-f8a37f19-9fbe-49d9-942c-0898cc0c13ce,talk.hiphop,available,,,high,low,4,,,,
 c725e529-186c-46c8-9fd2-2191dacf401d,baeda.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,21/09/2026 17:19
 6d34a451-4d1a-482b-afad-c8db41363cca,tractors.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,21/09/2026 06:24
 13b52d77-1bf9-47ec-a223-adb646546533,extras.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,
 fc96b402-c89c-451c-8b3c-8dde6af9b910,worked.hiphop,available,23.99,23.99,high,low,6,namesilo,,,
 bb5c67b7-892f-42c7-9bb4-13964ad1b7b1,nosed.hiphop,available,25.98,33.98,medium,low,5,namecheap,,,03/09/2026 21:45
 b771a2a0-a679-4ee8-9b4a-79ca783c6e28,christopher.hiphop,available,23.99,23.99,high,low,11,namesilo,,,25/09/2026 13:15
-9e78b094-6cf6-4870-939b-1fd193cef4f0,feather.hiphop,available,23.99,23.99,high,low,7,namesilo,,,
+9e78b094-6cf6-4870-939b-1fd193cef4f0,feather.hiphop,available,25.98,33.98,high,low,7,namecheap,,,29/09/2026 19:02
 9e4c79dd-6ddb-49e4-a6c0-ec825014f207,hose.hiphop,available,21.62,21.62,medium,low,4,dynadot,,,28/09/2026 14:27
 aac992ec-0a49-42df-b946-3d7dc3cc2f95,framework.hiphop,available,23.99,23.99,high,low,9,namesilo,,,25/08/2026 02:30
 781192b9-7114-4dbb-9b10-136a3c9cd07f,brachial.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,11/08/2026 00:19
@@ -750,8 +813,8 @@ dbc614de-8c3f-444b-9025-8e96bfee313c,scriptural.hiphop,available,25.98,33.98,med
 00809707-0f19-45d3-94f1-3250410f6c10,twentieth.hiphop,available,23.99,23.99,high,low,9,namesilo,,,21/09/2026 12:27
 722b3863-08ad-40be-848d-79d32ee30441,bras.hiphop,available,25.98,33.98,high,low,4,namecheap,,,17/09/2026 13:20
 9c6644b8-1543-4958-83e4-364e29db7d4b,hydrogen.hiphop,available,23.99,23.99,high,low,8,namesilo,,,20/09/2026 21:53
-881d2203-d890-4736-8aff-557fb9c828fe,dinky.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,14/08/2026 08:14
-44174999-83e6-45fb-9ba9-e82fde4c6379,stretching.hiphop,available,20.9,20.9,medium,low,10,spaceship,,,29/09/2026 02:14
+881d2203-d890-4736-8aff-557fb9c828fe,dinky.hiphop,available,23.99,23.99,high,low,5,namesilo,,,14/08/2026 08:14
+44174999-83e6-45fb-9ba9-e82fde4c6379,stretching.hiphop,available,20.9,20.9,high,low,10,spaceship,,,29/09/2026 02:14
 7919e94b-80d8-4089-8f3a-e0ddd57f1a4f,mma.hiphop,premium,640,116,high,medium,3,namesilo,,,28/09/2026 16:33
 6433328f-0025-441c-9fec-aeaef7287137,gaelic.hiphop,available,23.99,23.99,high,low,6,namesilo,,,11/08/2026 23:40
 b28bb5d2-ad28-4331-9cce-20b2915ab30b,asahikawa.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,20/09/2026 12:44
@@ -761,7 +824,8 @@ ffdd7409-b2ad-4c99-9024-ef3266ae6f95,uncritical.hiphop,available,23.99,23.99,med
 5f5ff8a2-d06c-4633-a9fb-2c121b8e8694,sickish.hiphop,available,23.99,23.99,low,low,7,namesilo,,,03/09/2026 14:05
 215ae5bd-4650-4da3-9693-559fc312706c,lamb.hiphop,available,25.98,33.98,high,low,4,namecheap,,,27/09/2026 03:31
 2ed94a06-5424-4d8d-98b9-266f5d31a123,tuna.hiphop,available,23.99,23.99,high,low,4,namesilo,,,19/09/2026 07:27
-70d2db53-72a9-478d-af46-d721d01bd5f5,heartthrob.hiphop,available,23.99,23.99,high,low,10,namesilo,,,
+70d2db53-72a9-478d-af46-d721d01bd5f5,heartthrob.hiphop,available,23.99,23.99,high,low,10,namesilo,,,29/09/2026 22:26
+05237cac-1c72-4313-bab1-979a99928f8d,earnings.hiphop,available,23.99,23.99,high,low,8,namesilo,,,29/09/2026 18:43
 d79e5fee-c809-4e7e-8fc6-8d51f909d628,manslaughter.hiphop,available,23.99,23.99,medium,low,12,namesilo,,,28/09/2026 22:46
 4e57f346-5b14-4bd4-ac07-d436675261fa,punishable.hiphop,available,23.99,23.99,high,medium,10,namesilo,,,09/09/2026 05:59
 8f149960-e025-48e7-bddc-0bb1b1e3f4ad,inflexibly.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,15/09/2026 08:16
@@ -772,6 +836,7 @@ fb675d1c-4b7d-4d20-bdb3-59c07ccc2301,capital.hiphop,available,20.9,20.9,high,med
 a003f749-e913-441b-abd2-6de25c9d8771,jane.hiphop,available,25.98,33.98,high,low,4,namecheap,,,25/09/2026 11:44
 3830e42f-0698-4f16-95b6-ac2de4d49ad9,boozy.hiphop,available,25.98,33.98,low,low,5,namecheap,,,09/08/2026 19:00
 a9cb84ff-6cad-4e40-9163-576272874d34,bison.hiphop,available,25.98,33.98,high,low,5,namecheap,,,23/09/2026 22:04
+e4a7aa40-bddb-423b-b5b7-580d1736530e,constellation.hiphop,available,20.9,20.9,high,low,13,spaceship,,,29/09/2026 20:52
 a42f10e3-dc60-46db-a41d-171f03f834a3,frick.hiphop,available,25.98,33.98,medium,low,5,namecheap,,,29/09/2026 01:01
 79dff537-9e4c-4a4a-8f9f-a0e32645e511,twins.hiphop,available,25.98,33.98,high,medium,5,namecheap,,,25/09/2026 06:26
 9ec15041-3477-494d-8b6e-47c57357343f,uncooked.hiphop,available,23.99,23.99,high,low,8,namesilo,,,12/09/2026 06:09
@@ -781,37 +846,40 @@ a42f10e3-dc60-46db-a41d-171f03f834a3,frick.hiphop,available,25.98,33.98,medium,l
 ab0e9e3b-c77d-4a0e-8601-c95103e53911,whereabouts.hiphop,available,33.98,,high,low,11,namecheap,,,
 54dd386d-f2b8-49cf-853e-e464f6de6f7a,vehicular.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,13/09/2026 01:48
 3fbad53e-f1e6-496a-80eb-8184e07c9a71,hardest.hiphop,available,23.99,23.99,low,low,7,namesilo,,,28/09/2026 12:52
-4ce7116c-5f75-427b-821b-dc3df6e02a7a,inc.hiphop,available,,,high,low,3,,,,
-a013a1cb-8a27-4869-9cea-f687085f021c,dragon.hiphop,available,23.99,23.99,high,medium,6,namesilo,,,
+a013a1cb-8a27-4869-9cea-f687085f021c,dragon.hiphop,available,23.99,23.99,high,medium,6,namesilo,,,29/09/2026 16:42
 902ef648-4010-4282-a087-41a10b3c1701,appetizer.hiphop,available,23.99,23.99,high,low,9,namesilo,,,19/09/2026 20:45
 751f68a3-5585-4129-8fa0-e5197fd8acc1,ans.hiphop,premium,640,116,medium,low,3,namesilo,,,19/09/2026 12:01
 0c7efe00-3a1d-45a3-89a1-4db60f0c7ec5,claus.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,27/09/2026 02:28
+6164073f-f30e-41f9-91d2-f92e1b5e72b1,sst.hiphop,premium,517.7,103.7,high,low,3,spaceship,,,29/09/2026 21:43
 74190c95-ab1f-4280-a993-e27d9e85c68c,jugular.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,22/08/2026 14:16
 f03fc73e-cf9e-4606-ac0a-af8b55b8d89f,mangy.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,24/08/2026 14:50
 c456d1a2-b3ba-4a30-b6b9-efaa0639bb56,gyrate.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,10/09/2026 15:51
 b7512f98-22af-4434-9952-279e1c7a5471,touchdown.hiphop,available,23.99,23.99,high,low,10,namesilo,,,28/09/2026 20:40
 e07a1cad-ad55-4157-9a0c-3b343dcdbfd5,bandy.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,08/08/2026 11:45
 8de4d649-b889-4f35-bf8c-faa24350e72e,cursively.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,14/09/2026 10:07
-f38dc362-e780-4f06-8148-7e665a566a74,combative.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,
+f38dc362-e780-4f06-8148-7e665a566a74,combative.hiphop,available,25.98,33.98,high,low,9,namecheap,,,
 be463d44-c866-442b-8742-0cea5b20e7c3,polynesian.hiphop,available,23.99,23.99,high,low,10,namesilo,,,24/08/2026 13:48
 c61a1547-ca71-43c1-be1e-5e42203ba7c3,comate.hiphop,available,25.98,33.98,low,low,6,namecheap,,,12/08/2026 18:20
 339f8230-5985-46e6-984c-7aedf099c09b,afternoon.hiphop,available,21.62,21.62,high,low,9,dynadot,,,28/09/2026 19:25
 b7b50b34-4462-4fdf-89ed-c51f08a5e705,jamaican.hiphop,available,23.99,23.99,high,low,8,namesilo,,,22/08/2026 12:11
 61d17e7d-1b99-4b5a-acb9-aabfa3fe578e,indication.hiphop,available,34.99,41.99,high,low,10,name.com,,,24/09/2026 21:52
 c970cc7f-5009-4700-9a58-4c48b2046cf5,postnatal.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,09/09/2026 00:35
+e3eaf797-6c5b-4109-8548-f07f73f09be2,vancouver.hiphop,available,23.99,23.99,high,medium,9,namesilo,,,29/09/2026 12:40
 a629aad3-b971-4b2f-a045-c147c312979d,obnubilate.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,03/09/2026 23:55
 601319a0-095f-4577-95fe-10ae8ad571aa,informal.hiphop,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 09:31
+fb43ba5c-4579-4cff-ac12-6ee19bcf4b6b,crowell.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,29/09/2026 09:14
 20a71dcf-a894-4dea-a664-f9789b11e896,sandusky.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,28/09/2026 22:26
-94a72ca1-eee7-4414-a024-615f2ab1ba09,dates.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,18/09/2026 18:40
+94a72ca1-eee7-4414-a024-615f2ab1ba09,dates.hiphop,available,23.99,23.99,high,low,5,namesilo,,,18/09/2026 18:40
+99e28afd-a373-4bb8-a630-38a793523b4e,adrienne.hiphop,available,20.9,20.9,high,low,8,spaceship,,,29/09/2026 09:35
 c35199a0-6e40-4cef-aaba-c090e39f707d,mitotic.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,25/08/2026 02:08
 285aa27c-db17-4dd2-9e13-7d05915f4959,caliginous.hiphop,available,23.99,23.99,low,low,10,namesilo,,,11/08/2026 14:25
 7d8fa18c-4eb0-4f42-a4c7-b9b1bd83b426,diana.hiphop,available,23.99,23.99,high,low,5,namesilo,,,25/09/2026 22:22
-afaf4724-2ab3-4971-92d0-23fbc48b0ae4,tornado.hiphop,available,33.98,,high,low,7,namecheap,,,
+afaf4724-2ab3-4971-92d0-23fbc48b0ae4,tornado.hiphop,available,25.98,33.98,high,low,7,namecheap,,,29/09/2026 11:57
 69e80726-a6f0-4aea-90b1-4d2d8cf824e8,galicia.hiphop,available,43.99,43.99,high,low,7,godaddy,,,28/09/2026 01:58
 29d20d3b-d6c5-4254-9fc6-f6de3d177ddb,ribbons.hiphop,available,23.99,23.99,high,low,7,namesilo,,,20/09/2026 07:05
 bc2e4daf-87d2-4e50-8066-812209e32871,ramsey.hiphop,available,23.99,23.99,high,low,6,namesilo,,,25/09/2026 15:22
 269d175e-923c-41db-a6ed-14c20093f4ba,limbless.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,23/08/2026 12:35
-9dd9b87b-e675-455f-9a5a-7367507362c9,cappuccino.hiphop,available,23.99,23.99,high,low,10,namesilo,,,
+9dd9b87b-e675-455f-9a5a-7367507362c9,cappuccino.hiphop,available,20.9,20.9,high,low,10,spaceship,,,29/09/2026 07:24
 8cc0de9e-eb47-444b-ba81-7e1115380019,rumansh.hiphop,available,23.99,23.99,high,medium,7,namesilo,,,09/09/2026 18:32
 9e7879bd-71fd-4904-b80d-f260f0a8a5ee,edmonton.hiphop,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 22:33
 c3b7780d-c477-4864-bfb0-896c43426844,braveness.hiphop,available,23.99,23.99,high,low,9,namesilo,,,24/09/2026 08:20
@@ -824,42 +892,48 @@ c9385bca-1296-4bc0-97cb-c87290dd805c,beechwood.hiphop,available,34.99,41.99,medi
 c8594044-ecf2-48b9-bd56-7d3e1de87ded,machinist.hiphop,available,23.99,23.99,high,low,9,namesilo,,,19/09/2026 17:14
 422288fc-0598-4b32-9dcf-b1f9bef4f536,prodigal.hiphop,available,23.99,23.99,high,low,8,namesilo,,,09/09/2026 02:36
 38f981c5-8cd5-4833-8aff-2136fa92fef2,owns.hiphop,available,23.99,23.99,medium,low,4,namesilo,,,18/09/2026 16:37
-f27d6044-7c10-47d9-8d98-f5041f53ec24,knitted.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,22/08/2026 16:27
+f27d6044-7c10-47d9-8d98-f5041f53ec24,knitted.hiphop,available,23.99,23.99,high,low,7,namesilo,,,22/08/2026 16:27
 6e96f7eb-a948-4f93-91e6-d226b0955184,liberal.hiphop,available,25.98,33.98,high,low,7,namecheap,,,09/08/2026 20:57
 995b5a11-e8a2-4e6f-ad7f-98b75fab8330,forrest.hiphop,available,25.98,33.98,high,low,7,namecheap,,,25/09/2026 12:36
+543a60be-c5c8-4d48-90f5-ec9400dc6039,highways.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,30/09/2026 00:05
 f3fbfb90-bdf2-4da8-86ff-e6b1b3a287fe,timed.hiphop,available,23.99,23.99,high,low,5,namesilo,,,11/09/2026 16:00
 46faf3d6-80ae-4804-9a92-8d687a99eb5e,badge.hiphop,available,25.98,33.98,high,low,5,namecheap,,,19/09/2026 15:56
 6450d992-6815-4e14-a1e8-a0d455605a2a,kochia.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,22/09/2026 12:18
+d5050232-2ee1-44e9-a5f3-430e523fbf32,zaragoza.hiphop,available,20.9,20.9,high,low,8,spaceship,,,29/09/2026 08:01
 2255b62d-9c74-47b1-a8c2-fd953dc2e66e,blemished.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,10/08/2026 14:12
 473e46f1-bf4d-44b7-ba60-20cf7be45b0f,pageant.hiphop,available,23.99,23.99,high,low,7,namesilo,,,28/09/2026 02:36
 b625fb3f-7784-48ed-b63a-0db2331338a9,going.hiphop,available,25.98,33.98,high,low,5,namecheap,,,24/09/2026 22:35
 84041f5c-7141-4459-9647-06f55849079b,watched.hiphop,available,25.98,33.98,high,low,7,namecheap,,,18/09/2026 01:33
 77721b7f-9f83-4f52-86e9-5a75a55a56b1,arbutus.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,20/09/2026 01:01
-fb309622-dde1-4e2b-b174-e5f44f4afcd5,pal.hiphop,premium,640,116,high,low,3,namesilo,,,
+fb309622-dde1-4e2b-b174-e5f44f4afcd5,pal.hiphop,premium,517.7,103.7,high,medium,3,spaceship,,,29/09/2026 05:02
 e4f3886d-244e-4a31-bcda-c33ff6f19dbf,paleozoic.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,04/09/2026 23:39
 aa2d5aba-555c-49eb-8e75-a9b9ea39c587,irving.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,25/09/2026 07:50
 847c4c95-2f43-4527-a26e-47d2108d3982,confidential.hiphop,available,21.11,21.11,high,low,12,porkbun,,,27/09/2026 17:23
 607759f5-cda5-4db5-9608-9fd08736dab2,darryl.hiphop,available,20.9,20.9,medium,low,6,spaceship,,,28/09/2026 21:59
 684947a1-fae5-4558-b685-3e6b3ce661bc,palish.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,04/09/2026 23:41
 7b88bc78-1df5-48aa-a8c4-8e4309e97e66,thrace.hiphop,available,21.62,21.62,medium,low,6,dynadot,,,28/09/2026 20:38
+ab8bbad9-e2d3-4990-b55d-e1d89eaf18fd,muncie.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,30/09/2026 02:21
 bd6deec1-8791-473c-9ec7-786edefbfc4c,musa.hiphop,available,27,,high,low,4,unstoppable,,,28/09/2026 05:49
 e8dd5092-6d9d-4542-8133-ab038bb27fed,answered.hiphop,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 16:54
 d2c53b21-827b-4b9f-9a22-2bc91f70c3f4,aflame.hiphop,available,23.99,23.99,high,low,6,namesilo,,,
 ba6431b4-8c50-4cfe-b31f-238ee39254b6,absorb.hiphop,available,25.98,33.98,high,low,6,namecheap,,,10/09/2026 19:56
 7a438b18-1fd9-4fcd-b3c6-85d960f0fcf0,casualty.hiphop,available,20.9,20.9,medium,low,8,spaceship,,,28/09/2026 18:35
 a92f3ece-ba3d-42be-ad07-a71909c20b40,shuttered.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,10/09/2026 07:21
+9c45fc68-ce9f-47a3-9c1b-b264aa9f57be,independently.hiphop,available,27,,medium,low,13,unstoppable,,,29/09/2026 14:31
 e280909b-9fef-462a-be63-e9782625f10b,adjectives.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,18/09/2026 16:11
-7b0e8b72-06da-4157-8c22-7a263a1327a1,unchanging.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,12/09/2026 05:04
+219658d5-0f26-4374-95a3-783149ec8931,burch.hiphop,available,27,,medium,low,5,unstoppable,,,29/09/2026 15:48
+7b0e8b72-06da-4157-8c22-7a263a1327a1,unchanging.hiphop,available,23.99,23.99,high,low,10,namesilo,,,12/09/2026 05:04
 fb569f20-257f-4803-8cb3-5a59483c331b,roundabout.hiphop,available,23.99,23.99,medium,low,11,namesilo,,,12/08/2026 08:20
 b6686fbf-7174-4de3-847f-f71a9595c1dd,homely.hiphop,available,23.99,23.99,high,low,6,namesilo,,,21/08/2026 11:04
-3980e83e-58cf-4c8a-8a4a-55532fad2205,audibly.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,13/09/2026 22:44
+3980e83e-58cf-4c8a-8a4a-55532fad2205,audibly.hiphop,available,23.99,23.99,high,low,7,namesilo,,,13/09/2026 22:44
 7041e569-3e6f-4e24-b78a-a20cf25f9522,courier.hiphop,available,21.62,21.62,medium,low,7,dynadot,,,28/09/2026 18:49
 7ea83ffc-36b1-4e2f-8c82-a1cb44e3f690,stretchout.hiphop,available,25.98,33.98,medium,low,11,namecheap,,,17/09/2026 05:03
+e1bbe25a-4db8-40ea-9933-f96dca34f150,administer.hiphop,available,27,,high,low,10,unstoppable,,,29/09/2026 14:10
 bb8e4132-ce88-4d30-a2a1-0ba2febc13b8,kurt.hiphop,available,23.99,23.99,high,low,4,namesilo,,,25/09/2026 13:27
 7e76a69a-b734-44bb-bcb5-a17a4f300b13,installed.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,28/09/2026 12:57
 9e890e2e-dbd5-4425-a13a-7570b9416a85,brunei.hiphop,available,20.9,20.9,high,low,6,spaceship,,,28/09/2026 05:20
 7e711e48-c27e-49f3-816d-2fc419a1a056,omaha.hiphop,available,23.99,23.99,high,low,5,namesilo,,,28/09/2026 14:49
-e7a3f348-1d16-4571-9ee8-045e4312df31,sellable.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,24/08/2026 20:28
+e7a3f348-1d16-4571-9ee8-045e4312df31,sellable.hiphop,available,25.98,33.98,high,low,8,namecheap,,,24/08/2026 20:28
 be9b0d86-4bae-489d-bc9c-a678b7410d71,weber.hiphop,available,25.98,33.98,high,low,5,namecheap,,,22/09/2026 07:12
 dac96155-a044-4e81-9b35-b4b48be0cc8b,sentimental.hiphop,available,23.99,23.99,high,low,11,namesilo,,,28/09/2026 03:30
 f9244631-e58f-4ba0-af00-5d707c01671e,reflexed.hiphop,available,23.99,23.99,high,medium,8,namesilo,,,09/09/2026 12:41
@@ -870,22 +944,23 @@ dd5776b4-3c76-4fa2-83f8-400b35b183f3,spell.hiphop,available,25.98,33.98,high,low
 db0cbd39-c466-4142-b2ec-b13b2781e378,blt.hiphop,premium,640,116,high,low,3,namesilo,,,21/09/2026 16:25
 dbaf439f-de0a-48dd-aea5-bdcffbf33201,voidable.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,09/09/2026 14:47
 7da45a34-ac0a-4f40-aebc-feb4d42b39e3,acoustics.hiphop,available,23.99,23.99,high,low,9,namesilo,,,17/09/2026 02:36
-1e9ab1f8-8c2c-4ac3-992a-1cdfd41d9eb8,greasy.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,20/08/2026 19:35
+1e9ab1f8-8c2c-4ac3-992a-1cdfd41d9eb8,greasy.hiphop,available,25.98,33.98,high,low,6,namecheap,,,20/08/2026 19:35
 4e1e84f5-9ce2-4549-83a5-ab919abca051,pathetic.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,20/08/2026 23:50
+630bacf4-7a99-49ae-83f6-6a71ff8ca4d7,vinson.hiphop,available,27,,medium,low,6,unstoppable,,,29/09/2026 12:24
 7e780d85-eb50-4885-96d4-168bdb094d34,imprecise.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,21/08/2026 23:00
 df514b1d-d950-4f97-9e8e-c52b3d48320f,hitler.hiphop,available,23.99,23.99,high,low,6,namesilo,,,17/09/2026 09:31
 06364925-d05a-4850-a8a2-524ae255efc4,inrush.hiphop,available,23.99,23.99,high,low,6,namesilo,,,22/08/2026 06:17
-f721423f-e542-4684-88ac-6bbd9d968e02,vacation.hiphop,available,,,high,low,8,,,,
 5c2ec38f-091d-44ef-bc4e-7208ec5be430,cos.hiphop,premium,650,130,high,medium,3,namecheap,,,24/09/2026 18:26
 eadf43b4-ba05-4bcc-aabd-6b4838763b99,affirmable.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,
 5fc4df33-8148-479e-8d3e-e881767863f7,associate.hiphop,available,23.99,23.99,high,low,9,namesilo,,,07/08/2026 06:50
 e7edd480-abe9-49a6-9bb3-2a48cab251f6,lacklustre.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,22/08/2026 18:09
 eaf77f97-5142-4b09-8fdb-817225ebe53a,deserved.hiphop,available,23.99,23.99,high,low,8,namesilo,,,14/08/2026 03:27
+3c2ab227-2dec-401a-b8b3-577fcde006ce,franco.hiphop,available,23.99,23.99,high,low,6,namesilo,,,29/09/2026 06:44
 7666f012-c0ad-499a-9a06-22fa11719dc1,technician.hiphop,available,27,,high,low,10,unstoppable,,,28/09/2026 15:27
 8b3bbf9f-82f7-4184-8a57-b941e1cb49bc,belau.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,23/09/2026 04:30
 bbdba48a-c776-4a8d-a505-290748757b12,bionics.hiphop,available,23.99,23.99,high,low,7,namesilo,,,23/09/2026 18:40
 6ada37ed-9bd6-44a6-99e5-64f9f5fa1ef8,enkindled.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,17/08/2026 09:31
-fdb8fc3f-1d28-4ec2-bfac-0463918aa01b,excitedly.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,14/09/2026 16:52
+fdb8fc3f-1d28-4ec2-bfac-0463918aa01b,excitedly.hiphop,available,23.99,23.99,high,low,9,namesilo,,,14/09/2026 16:52
 59a05f81-f6b8-4905-9b39-f55b74963245,tortuous.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,11/09/2026 18:01
 6c6b06a2-eaa1-44b1-9958-a1319c8daee0,beetling.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,09/08/2026 08:22
 46f0c1e9-f260-40dc-9011-56241d915972,gallant.hiphop,available,23.99,23.99,high,low,7,namesilo,,,12/08/2026 06:16
@@ -894,7 +969,7 @@ cfe95c5b-42da-4e18-a87a-0c193df7e279,sitter.hiphop,available,23.99,23.99,high,lo
 5c93d11f-f3ad-4f73-a622-25bda6e1e44d,flavorful.hiphop,available,23.99,23.99,high,low,9,namesilo,,,18/08/2026 07:04
 c42d94a5-c842-4932-9ede-0018a82c5bba,dappled.hiphop,available,34.99,41.99,medium,low,7,name.com,,,13/08/2026 17:39
 4547d388-0edc-4059-86d6-ccfcd9818fa9,flight.hiphop,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 20:44
-47b63f37-7f74-4598-b54a-f3ca6c4d5555,fever.hiphop,available,23.99,23.99,high,low,5,namesilo,,,
+47b63f37-7f74-4598-b54a-f3ca6c4d5555,fever.hiphop,available,20.9,20.9,high,low,5,spaceship,,,29/09/2026 19:05
 58ca5dcd-c5a8-45a2-8428-f7e04a223593,panicked.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,05/09/2026 00:57
 21b477e9-3581-43ac-ad96-261e8d18e2d3,input.hiphop,available,23.99,23.99,high,low,5,namesilo,,,19/09/2026 11:49
 112bdd6a-94b5-447c-a4a4-836919420c26,emmanuel.hiphop,available,23.99,23.99,high,low,8,namesilo,,,27/09/2026 03:07
@@ -906,6 +981,7 @@ bfbc29db-58a3-43ce-be99-0f5f5d86e39e,obamacare.hiphop,available,23.99,23.99,medi
 fa72459c-4ff7-4e25-a12c-770e5560de6b,assail.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,20/09/2026 15:49
 45940874-05d7-4bbb-8f09-511a52ccf9fe,cognisant.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,08/08/2026 00:18
 5a9a79bd-c2b3-4e2f-a897-5444d414fc16,atkinson.hiphop,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 17:41
+a9df64e5-0fe1-44d0-bc90-dd5ae1163164,doses.hiphop,available,25.98,33.98,medium,low,5,namecheap,,,29/09/2026 17:50
 16248bb6-5acd-4bc6-99a8-7fe990151f36,forcible.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,18/08/2026 11:19
 0490f931-74c8-4d90-9331-896d835e0085,tuscany.hiphop,available,23.99,23.99,high,low,7,namesilo,,,27/09/2026 16:08
 fab453ad-369b-4e2e-a928-b74eaa12c3d0,vaunt.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,11/08/2026 01:09
@@ -914,7 +990,8 @@ a804b19f-540a-4522-a346-e6e82b35dd57,european.hiphop,available,23.99,23.99,high,
 19d22ff9-5ee4-49aa-812f-d5c08ef9954b,brightly.hiphop,available,23.99,23.99,high,low,8,namesilo,,,11/08/2026 04:04
 348c73ec-b137-467a-8aa3-0576456e633f,congenital.hiphop,available,25.98,33.98,high,low,10,namecheap,,,12/08/2026 21:40
 4c5a71e6-c119-4380-b98b-18ecc4d2508d,ambiance.hiphop,available,25.98,33.98,high,low,8,namecheap,,,18/09/2026 16:40
-e33f15a3-25e4-47be-8919-4449798724ba,xxii.hiphop,available,23.99,23.99,medium,low,4,namesilo,,,21/09/2026 12:40
+e33f15a3-25e4-47be-8919-4449798724ba,xxii.hiphop,available,23.99,23.99,high,low,4,namesilo,,,21/09/2026 12:40
+0207df3e-ccf0-4831-9d8c-7cd5e11f0a73,mosses.hiphop,available,23.99,23.99,low,low,6,namesilo,,,29/09/2026 05:08
 36003b1b-f903-439d-bf0d-1ef0aff90bca,keyset.hiphop,available,23.99,23.99,low,low,7,namesilo,,,21/09/2026 00:17
 fcff0333-c96b-4331-8e67-3172411b1ce7,persian.hiphop,available,23.99,23.99,high,low,7,namesilo,,,22/08/2026 09:41
 7138b3cc-aa92-4c0b-9e79-e6071110ec2d,podgy.hiphop,available,23.99,23.99,low,low,5,namesilo,,,08/09/2026 22:22
@@ -922,80 +999,3 @@ fcff0333-c96b-4331-8e67-3172411b1ce7,persian.hiphop,available,23.99,23.99,high,l
 3c96b5e3-3e40-4f68-8c07-8cd70202039f,jung.hiphop,available,23.99,23.99,high,low,4,namesilo,,,25/09/2026 03:59
 53e96a6d-6a5a-4a9d-b8ba-2a4f3fc4ed58,filaria.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,18/09/2026 06:14
 c0c7d131-1bec-4710-aa85-e72605efcbf4,overpriced.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,04/09/2026 21:26
-dc878588-494d-4b76-85c0-d13db6c42d42,manzanita.hiphop,available,25.98,33.98,medium,low,9,namecheap,,,20/09/2026 01:04
-96e81606-9fff-4aae-866d-d30b256b01ec,pearly.hiphop,available,23.99,23.99,high,low,6,namesilo,,,08/09/2026 11:21
-094827de-cfd1-4784-bd52-85487f2b7e74,liberties.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,18/09/2026 04:52
-b59d7f82-d3b0-4766-9b3a-4da116279c5e,rickety.hiphop,available,34.99,41.99,medium,low,7,name.com,,,13/08/2026 20:34
-8f33e12e-829b-4a4c-9864-e2b9c54f3cd0,segovia.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,19/09/2026 04:41
-4c12439d-3b0f-4abe-b6e6-9d5b05cbecbc,statuary.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,10/09/2026 19:16
-840632a8-4786-4460-aa2e-b0199a1132a5,attestant.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,21/09/2026 01:36
-c6181c65-e6c1-414f-91c4-f427df78a5b3,adlumia.hiphop,available,25.98,33.98,medium,low,7,namecheap,,,17/09/2026 08:37
-9f8a4a8b-d15e-4239-9ad3-70388fb9dc99,weaned.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,13/09/2026 08:53
-fc436b19-a074-4001-b854-9173790edaa9,walkabout.hiphop,available,23.99,23.99,high,low,10,namesilo,,,
-3b6e374f-0ecc-417f-b2e9-2fdde34990a4,miriam.hiphop,available,20.9,20.9,high,low,6,spaceship,,,28/09/2026 03:46
-ce97fe7e-fe5e-4799-912a-ec5a6357ddd7,stoolie.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,11/08/2026 16:46
-7c8d46eb-d601-42d6-9e25-f2ac3c0650e4,turf.hiphop,available,23.99,23.99,high,low,4,namesilo,,,28/09/2026 05:54
-0bc128f5-fcb6-4a86-9ff3-4176e0689d0e,deep.hiphop,available,23.99,23.99,high,medium,4,namesilo,,,21/09/2026 15:15
-5239a770-7ec0-48fd-9b52-730d6f0c427d,cuff.hiphop,available,20.9,20.9,medium,low,4,spaceship,,,29/09/2026 00:32
-1c7002b5-ecc9-4a72-95dd-d0fb8941488b,front.hiphop,available,23.99,23.99,high,low,5,namesilo,,,24/09/2026 21:48
-f1b62767-c2d4-4085-8ee0-104db79e1eeb,davies.hiphop,available,27,,medium,low,6,unstoppable,,,29/09/2026 03:54
-356e70bc-35af-40ef-93e8-67681ba4e02b,temptation.hiphop,available,21.11,21.11,high,low,10,porkbun,,,28/09/2026 09:41
-324c8b56-11ca-4975-9e27-1889f17d0576,logistics.hiphop,available,23.99,23.99,high,low,9,namesilo,,,28/09/2026 03:58
-e04416f5-f91e-4668-b307-03e75b095ad9,hardback.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,21/08/2026 00:40
-9103ae13-07ee-4fb1-a007-de63894e2c19,delle.hiphop,available,20.9,20.9,medium,low,5,spaceship,,,28/09/2026 07:54
-a4b7db7b-e75c-444b-9bbb-df4cab21bb5e,academia.hiphop,available,20.9,20.9,high,low,8,spaceship,,,28/09/2026 08:49
-3ca8ef79-2549-4854-baee-5867c840a6d4,consenting.hiphop,available,23.99,23.99,high,low,10,namesilo,,,12/08/2026 22:35
-5a4e17c9-2230-4632-b38e-5943a9b736c1,chilling.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,12/08/2026 05:19
-b6c9b5c8-26fd-44a7-9a70-f4c8a64228cc,agreed.hiphop,available,23.99,23.99,high,low,6,namesilo,,,21/09/2026 23:21
-a7b77423-3376-46f6-a21c-251037498111,pithily.hiphop,available,25.98,33.98,medium,low,7,namecheap,,,15/09/2026 20:06
-e1cd231b-f35f-44a6-8b9a-e3714e0ad003,salubrious.hiphop,available,23.99,23.99,high,low,10,namesilo,,,20/08/2026 16:33
-2a442aff-bb6d-46dc-bc11-18c5de96bf2b,macon.hiphop,available,23.99,23.99,high,low,5,namesilo,,,27/09/2026 04:39
-8f112654-c489-4ec8-bef8-c1e3a3f51b46,capsular.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,08/09/2026 04:10
-c79ca196-d131-4fc2-92f9-386f03d9b058,penn.hiphop,available,23.99,23.99,high,low,4,namesilo,,,25/09/2026 09:52
-a2f3a12e-d50e-47bc-ae63-db4984b10b0c,obscurely.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,15/09/2026 17:13
-412fa1f8-a3a7-46d9-bdde-4c84f964d086,floyd.hiphop,available,25.98,33.98,high,low,5,namecheap,,,25/09/2026 19:20
-c1811f66-6ddd-4aa2-82fb-4a8e9eefdc42,salient.hiphop,available,23.99,23.99,high,low,7,namesilo,,,09/09/2026 03:09
-22f00025-ba07-4e80-8241-56e3e5e2cf76,unfree.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,12/09/2026 10:43
-90989e4d-2efa-49eb-8585-5fa771008579,clubby.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,12/08/2026 11:19
-783f1d5e-f438-4e55-9a7c-4a93375c367a,nettlesome.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,
-b2373bd9-ae2d-447f-829f-1811ee2d8e3f,bakehouse.hiphop,available,25.98,33.98,high,low,9,namecheap,,,21/09/2026 20:13
-1d4e2f2a-97b1-4a3a-9d84-8cf2dac3c9a8,isosceles.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,22/08/2026 11:16
-7224ccf3-65d8-481c-9d44-b89bfc78386f,weldon.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,28/09/2026 16:37
-c598a31d-2e17-4cd0-aab1-00207277b430,maoist.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,24/08/2026 15:38
-8eace2f8-3647-4b6a-9979-9f27bd58353e,eviction.hiphop,available,23.99,23.99,high,low,8,namesilo,,,24/09/2026 17:35
-e78ca953-56ae-4d38-8102-dc4c03602bc3,ribbed.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,13/08/2026 03:08
-cf3d16d4-28ac-496b-8138-3941b9868fde,whisper.hiphop,available,23.99,23.99,high,low,7,namesilo,,,13/09/2026 11:38
-e1b27f4e-6fe8-4473-989d-5c4673196100,grapes.hiphop,available,25.98,33.98,high,low,6,namecheap,,,28/09/2026 12:35
-9f7de9c2-2443-47e4-b315-0950466cd157,arity.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,20/09/2026 06:02
-b504693e-e087-4356-bb15-3142ece384ea,ungodly.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,22/08/2026 05:29
-5db7e1ad-1ff0-418c-8863-7570c0cbcf45,aquamarine.hiphop,available,23.99,23.99,high,low,10,namesilo,,,19/09/2026 22:49
-3e76b4cd-c9fa-4978-8a49-20a6bc38944a,plough.hiphop,available,23.99,23.99,high,low,6,namesilo,,,23/09/2026 14:29
-1101a306-b83b-4668-96d1-a6ddcc8b152d,curtain.hiphop,available,33.98,,high,low,7,namecheap,,,
-f0405cea-b1b1-4329-b310-53a020d32e17,casualties.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,27/09/2026 21:53
-2c256d5a-b8d3-4489-9ab2-91e8863f2bf2,grounded.hiphop,available,23.99,23.99,high,low,8,namesilo,,,27/09/2026 06:36
-98951cc9-0058-4c45-8078-ce57235ce4e8,burlesque.hiphop,available,23.99,23.99,high,low,9,namesilo,,,11/08/2026 10:40
-143a2d36-fcc9-4e52-a51e-6c3124f7829d,cathouse.hiphop,available,25.98,33.98,medium,low,8,namecheap,,,21/09/2026 18:24
-4810ae7a-887a-4faf-af96-61a118936234,precedent.hiphop,available,23.99,23.99,high,medium,9,namesilo,,,09/09/2026 01:13
-f06d717c-9438-45ef-9c7e-4e906828dc25,entrenched.hiphop,available,25.98,33.98,medium,low,10,namecheap,,,24/09/2026 14:13
-258ca418-f616-4d89-9c54-c7d191fd1bef,reanimated.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,09/09/2026 10:58
-2260ac2d-6a75-40cb-85c4-695300f8c263,shakable.hiphop,available,23.99,23.99,medium,low,8,namesilo,,,10/09/2026 05:32
-6bf56347-98e3-409d-b786-cf12d27dbb1c,loft.hiphop,available,23.99,23.99,high,low,4,namesilo,,,22/09/2026 11:37
-44cc5d88-f5c3-4d08-a8ac-d325a862fed1,brutish.hiphop,available,25.98,33.98,low,low,7,namecheap,,,09/08/2026 17:59
-22b54ccc-663b-4142-ad2a-6e8f92f21d23,pulaski.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,28/09/2026 07:23
-3d98ff78-dfe1-4db0-8a5f-a51806ed5145,pointing.hiphop,available,23.99,23.99,high,low,8,namesilo,,,27/09/2026 08:31
-e6cab7e0-3461-48c4-b325-c0e0cb8f42fe,angularity.hiphop,available,23.99,23.99,medium,low,10,namesilo,,,19/09/2026 07:43
-ace4ac22-3264-4d4f-a986-83d8d45d29e0,minacious.hiphop,available,25.98,33.98,low,low,9,namecheap,,,24/08/2026 19:57
-15367e1a-daab-4ed4-a7fd-6eed4cf4e5c1,coequal.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,12/08/2026 15:22
-c1f63437-fb7f-45e0-9739-308040eea871,finley.hiphop,available,23.99,23.99,high,low,6,namesilo,,,28/09/2026 04:02
-fbac4f90-c43d-45f2-a887-81d8d52a42fc,robotics.hiphop,available,21.62,21.62,high,low,8,dynadot,,,28/09/2026 08:35
-2e729b30-c55d-4bfa-b00c-fe0998618fe7,calorific.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,11/08/2026 15:12
-21b34b1b-47c4-4e46-bfe1-c03f363ccee1,grands.hiphop,available,25.98,33.98,medium,low,6,namecheap,,,20/09/2026 04:57
-0d375160-5310-4077-ad0f-3145c3273423,longish.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,24/08/2026 09:40
-0ce098db-6c13-49ba-a960-1b8680bcea18,prick.hiphop,available,23.99,23.99,medium,low,5,namesilo,,,08/08/2026 23:38
-b7294833-a2c2-4043-9a80-7ed061fd74d9,point.hiphop,available,23.99,23.99,high,low,5,namesilo,,,28/09/2026 15:57
-ac20cce4-6043-4c2d-874f-24c00588bb3e,addible.hiphop,available,23.99,23.99,medium,low,7,namesilo,,,
-58f2a42b-02a5-46c6-80bf-d847f4ec0ef6,clip.hiphop,available,27,,high,low,4,unstoppable,,,28/09/2026 01:38
-204bf1b4-832d-4409-9428-6d40e4f6b21f,pulling.hiphop,available,23.99,23.99,high,low,7,namesilo,,,25/09/2026 10:11
-4e9ac041-785f-4ca7-9c04-949f7f053731,toy.hiphop,available,,,high,low,3,,,,
-1e0da0c2-75f7-460b-9502-8d78eab1626d,abbott.hiphop,available,21.62,21.62,high,low,6,dynadot,,,27/09/2026 17:56
-99d81c62-9988-4471-8b0e-31dd33daf03c,strap.hiphop,available,23.99,23.99,high,low,5,namesilo,,,28/09/2026 10:12
