@@ -1,10 +1,10 @@
-# Available .HIPHOP One-Word Domains (30,859)
+# Available .HIPHOP One-Word Domains (32,401)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C859%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C401%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hiphop one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,859 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,401 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,859 domains · **Median ask:** $49.41 · **High-demand under $2,500:** 157
+**Public extract:** 1,000 rows · **Live catalog:** 32,401 domains · **Median ask:** $51.05 · **High-demand under $2,500:** 162
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/hiphop`
 **Best for:** founders, investors, studios
 
@@ -75,13 +75,13 @@ print(df.head())
 | bead.hiphop | available | $27       | $23.99        | high           | low    | 4      | unstoppable |
 | bjp.hiphop  | premium   | $700      | $140          | high           | low    | 3      | namecheap   |
 | bids.hiphop | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
-| blt.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
-| bite.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
 | bmc.hiphop  | premium   | $650      | $130          | high           | medium | 3      | namecheap   |
-| blas.hiphop | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
+| bite.hiphop | available | $23.99    | $23.99        | high           | low    | 4      | namesilo    |
 | bow.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
-| bohr.hiphop | available | $27       | —             | medium         | low    | 4      | unstoppable |
+| blas.hiphop | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo    |
 | cnc.hiphop  | premium   | $640      | $116          | high           | low    | 3      | namesilo    |
+| bohr.hiphop | available | $27       | —             | medium         | low    | 4      | unstoppable |
+| dci.hiphop  | premium   | $546.35   | $109.69       | high           | low    | 3      | porkbun     |
 | bolt.hiphop | available | $20.90    | $20.90        | high           | high   | 4      | spaceship   |
 | eis.hiphop  | premium   | $500.20   | —             | high           | low    | 3      | unstoppable |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,859 live domains                        |
+| 1,000-row public sample | 32,401 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 157 high-demand names under $2,500         |
+| Basic exported fields   | 162 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIPHOP One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
